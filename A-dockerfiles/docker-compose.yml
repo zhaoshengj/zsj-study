@@ -1,0 +1,11 @@
+dubbo-admin:
+  build: '.'
+  ports:
+    - 87:87
+
+  net: host
+
+  volumes:
+   - /opt/app/dubbo-admin-87/logs:/opt/app/dubbo-admin-87/logs/
+
+
