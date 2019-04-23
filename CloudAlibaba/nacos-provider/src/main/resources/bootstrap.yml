@@ -45,6 +45,14 @@ spring:
       #filters: stat,wall
       # 通过connectProperties属性来打开mergeSql功能；慢SQL记录
       connectionProperties: druid.stat.mergeSql\=true;druid.stat.slowSqlMillis\=5000
+
 mybatis:
   type-aliases-package: com.zsj.nacos
   mapper-locations: classpath:mapper/*.xml
+
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count = countSql
+  offset-as-page-num: true

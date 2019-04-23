@@ -1,8 +1,9 @@
 package com.zsj.nacos.entity;
 
+import java.io.Serializable;
 import java.math.BigDecimal;
 
-public class User {
+public class User implements Serializable {
 
     private int id;
     private String name;
@@ -39,6 +40,17 @@ public class User {
 
     public void setMoney(BigDecimal money) {
         this.money = money;
+    }
+
+
+    public User(int id, String name, int age, BigDecimal money) {
+        this.id = id;
+        this.name = name;
+        this.age = age;
+        this.money = money;
+    }
+
+    public User() {
     }
 
     @Override

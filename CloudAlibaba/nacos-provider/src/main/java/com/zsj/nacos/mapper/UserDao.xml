@@ -3,7 +3,81 @@
 
 <mapper namespace="com.zsj.nacos.mapper.UserDao">
 
-    <select id="findUserByName" parameterType="String" resultType="com.zsj.nacos.entity.User">
+    <resultMap id="BaseResultMap" type="com.zsj.nacos.entity.User">
+        <id column="id" property="id" jdbcType="INTEGER"></id>
+        <result column="name" property="name" jdbcType="VARCHAR"></result>
+        <result column="age" property="age" jdbcType="INTEGER"></result>
+        <result column="money" property="money" jdbcType="DECIMAL"></result>
+    </resultMap>
+    <sql id="Base_Colimn_List">
+        id,name,age,money
+    </sql>
+    <!--<select id="findUserByName" parameterType="String" resultType="com.zsj.nacos.entity.User">
         SELECT * FROM user WHERE name = #{name}
+    </select>-->
+    <select id="findAllUser" resultMap="BaseResultMap">
+        SELECT
+        <include refid="Base_Colimn_List"/>
+        from user
+    </select>
+
+    <insert id="insertUser" parameterType="com.zsj.nacos.entity.User">
+        insert into user
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="id != null">
+                id,
+            </if>
+            <if test="name != null">
+                name,
+            </if>
+            <if test="age != null">
+                age,
+            </if>
+            <if test="money != null">
+                money,
+            </if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+            <if test="id != null">
+                #{id},
+            </if>
+            <if test="name != null">
+                #{name},
+            </if>
+            <if test="age != null">
+                #{age},
+            </if>
+            <if test="money != null">
+                #{money},
+            </if>
+        </trim>
+    </insert>
+
+   <update id="updateUser" parameterType="com.zsj.nacos.entity.User">
+        update user
+        <set>
+            <if test="name != null">
+                name = #{name},
+            </if>
+            <if test="age != null">
+                age = #{age},
+            </if>
+            <if test="money != null">
+                money = #{money},
+            </if>
+        </set>
+        where id = #{id}
+    </update>
+
+    <delete id="deleteUser" parameterType="Integer">
+        delete from user where id = #{id}
+    </delete>
+
+
+
+    <select id="findUserByName" parameterType="String" resultMap="BaseResultMap">
+        SELECT
+        <include refid="Base_Colimn_List"/>
+        from user where name = #{name}
     </select>
 </mapper>
