@@ -1,11 +1,9 @@
-package com.zsj.interview.JAVA;
+package com.zsj.interview.java;
 
 import org.junit.Test;
-import org.springframework.util.StringUtils;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 public class ListBasic {
 
@@ -16,5 +14,6 @@ public class ListBasic {
         list.add("123");
         list.remove(null);
         list.forEach(item -> System.out.println(item));
+
     }
 }

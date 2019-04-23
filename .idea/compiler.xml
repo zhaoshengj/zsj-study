@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="interview" />
+        <module name="javaversion" />
         <module name="nacos-consumer" />
         <module name="nacos-provider" />
       </profile>
@@ -21,6 +22,7 @@
       <module name="Alibaba" options="-parameters" />
       <module name="CloudAlibaba" options="" />
       <module name="interview" options="-parameters" />
+      <module name="javaversion" options="-parameters" />
       <module name="nacos-consumer" options="-parameters" />
       <module name="nacos-provider" options="-parameters" />
       <module name="nacos-provider-1" options="-parameters" />

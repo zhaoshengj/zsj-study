@@ -1,4 +1,4 @@
-package com.zsj.interview.JAVA;
+package com.zsj.interview.java;
 
 import org.junit.Test;
 
