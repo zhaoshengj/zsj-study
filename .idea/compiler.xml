@@ -10,6 +10,7 @@
         <module name="javaversion" />
         <module name="nacos-consumer" />
         <module name="nacos-provider" />
+        <module name="websocket-redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +27,7 @@
       <module name="nacos-consumer" options="-parameters" />
       <module name="nacos-provider" options="-parameters" />
       <module name="nacos-provider-1" options="-parameters" />
+      <module name="websocket-redis" options="-parameters" />
     </option>
   </component>
 </project>

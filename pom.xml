@@ -11,6 +11,7 @@
     <modules>
         <module>CloudAlibaba</module>
         <module>Basic</module>
+        <module>Socket</module>
     </modules>
 
     <properties>

@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/cloudAlibaba/nacos-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
