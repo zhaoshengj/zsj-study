@@ -1,4 +1,6 @@
-package com.zsj.websocketredis;
+package com.zsj.websocketredis.common;
+import com.zsj.websocketredis.pojo.WebSocket;
+
 import java.util.Map;
 
 /**

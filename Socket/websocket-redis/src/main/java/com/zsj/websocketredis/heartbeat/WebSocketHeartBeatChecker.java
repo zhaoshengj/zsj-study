@@ -1,8 +1,7 @@
-package com.zsj.websocketredis.config;
+package com.zsj.websocketredis.heartbeat;
 
-import com.zsj.websocketredis.TodoAtRemove;
-import com.zsj.websocketredis.WebSocket;
-import com.zsj.websocketredis.WebSocketManager;
+import com.zsj.websocketredis.pojo.WebSocket;
+import com.zsj.websocketredis.common.WebSocketManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -45,7 +44,7 @@ public class WebSocketHeartBeatChecker {
         if (toRemoves.size() > 0 ){
             for (WebSocket webSocket : toRemoves) {
                 //内存删了
-                socketMap.remove(webSocket.getIdentifier());
+                //socketMap.remove(webSocket.getIdentifier());
                 //额外比如还有数据库操作
                 todoAtRemove.todoWith(webSocket);
             }

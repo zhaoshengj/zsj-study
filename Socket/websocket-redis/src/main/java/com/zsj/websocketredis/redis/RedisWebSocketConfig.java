@@ -1,12 +1,13 @@
 package com.zsj.websocketredis.redis;
 
 
-import com.zsj.websocketredis.WebSocketManager;
-import com.zsj.websocketredis.config.WebSocketHeartBeatChecker;
+import com.zsj.websocketredis.common.WebSocketManager;
+import com.zsj.websocketredis.heartbeat.WebSocketHeartBeatChecker;
 import com.zsj.websocketredis.redis.action.ActionConfig;
 import com.zsj.websocketredis.utils.SpringContextHolder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -25,16 +26,20 @@ import java.util.concurrent.CountDownLatch;
  * 可以扩展此类，添加listener和topic及相应的receiver，使用自己的Enable注解导入即可
  * @see EnableRedisWebSocketManager
  */
-@Configuration
+//@Configuration
 @Import(ActionConfig.class)
 public class RedisWebSocketConfig {
+    static {
+        System.out.println("redis 模式");
+    }
     @Bean
     public StringRedisTemplate stringRedisTemplate(RedisConnectionFactory redisConnectionFactory) {
         return new StringRedisTemplate(redisConnectionFactory);
     }
 
     @Bean(WebSocketManager.WEBSOCKET_MANAGER_NAME)
-    @ConditionalOnMissingBean(name = WebSocketManager.WEBSOCKET_MANAGER_NAME)
+    //@ConditionalOnMissingBean(name = WebSocketManager.WEBSOCKET_MANAGER_NAME)
+    @ConditionalOnBean(name = WebSocketManager.WEBSOCKET_MANAGER_NAME)
     public RedisWebSocketManager webSocketManager(@Autowired StringRedisTemplate stringRedisTemplate) {
         return new RedisWebSocketManager(stringRedisTemplate);
     }

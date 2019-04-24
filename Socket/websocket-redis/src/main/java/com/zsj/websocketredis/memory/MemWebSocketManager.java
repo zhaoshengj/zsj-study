@@ -1,9 +1,9 @@
 package com.zsj.websocketredis.memory;
 
-import com.zsj.websocketredis.WebSocket;
-import com.zsj.websocketredis.WebSocketCloseEvent;
-import com.zsj.websocketredis.WebSocketConnectEvent;
-import com.zsj.websocketredis.WebSocketManager;
+import com.zsj.websocketredis.pojo.WebSocket;
+import com.zsj.websocketredis.common.WebSocketCloseEvent;
+import com.zsj.websocketredis.common.WebSocketConnectEvent;
+import com.zsj.websocketredis.common.WebSocketManager;
 import com.zsj.websocketredis.utils.SpringContextHolder;
 import com.zsj.websocketredis.utils.WebSocketUtil;
 
@@ -17,7 +17,7 @@ public class MemWebSocketManager implements WebSocketManager {
     /**
      * 因为全局只有一个 WebSocketManager ，所以才敢定义为非static
      */
-    private final Map<String, WebSocket> connections = new ConcurrentHashMap<>(100);
+    private final Map<String, WebSocket> connections = new ConcurrentHashMap<>();
 
     @Override
     public WebSocket get(String identifier) {
@@ -61,6 +61,8 @@ public class MemWebSocketManager implements WebSocketManager {
 
     @Override
     public void onMessage(String identifier, String message) {
+
+        sendMessage(identifier,message);
 
     }
 }

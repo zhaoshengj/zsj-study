@@ -1,4 +1,4 @@
-package com.zsj.websocketredis;
+package com.zsj.websocketredis.pojo;
 
 import javax.websocket.Session;
 import java.util.Date;

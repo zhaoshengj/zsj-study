@@ -1,6 +1,6 @@
-package com.zsj.websocketredis.config;
+package com.zsj.websocketredis.heartbeat;
 
-import com.zsj.websocketredis.WebSocketManager;
+import com.zsj.websocketredis.common.WebSocketManager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
@@ -38,6 +38,7 @@ public class WebSocketSchedulingConfig {
     public void webSocketHeartCheckJob() {
         webSocketHeartBeatChecker.check(webSocketManager , timeSpan , errorToleration , (webSocket)->{
             //数据库操作...
+            //System.out.print(" 用户短时间内无交互");
         });
     }
 }

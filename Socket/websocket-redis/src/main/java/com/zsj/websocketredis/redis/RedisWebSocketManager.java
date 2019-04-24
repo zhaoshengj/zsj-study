@@ -1,7 +1,8 @@
 package com.zsj.websocketredis.redis;
 
 
-import com.zsj.websocketredis.WebSocket;
+import com.zsj.websocketredis.common.WebSocketManager;
+import com.zsj.websocketredis.pojo.WebSocket;
 import com.zsj.websocketredis.memory.MemWebSocketManager;
 import com.zsj.websocketredis.redis.action.Action;
 import com.zsj.websocketredis.redis.action.BroadCastAction;
@@ -28,6 +29,8 @@ public class RedisWebSocketManager extends MemWebSocketManager {
     public static final String CHANNEL    = "websocket";
     private static final String COUNT_KEY = "RedisWebSocketManagerCountKey";
     protected StringRedisTemplate stringRedisTemplate;
+
+
 
     public RedisWebSocketManager(StringRedisTemplate stringRedisTemplate) {
         this.stringRedisTemplate = stringRedisTemplate;

@@ -1,5 +1,7 @@
-package com.zsj.websocketredis;
+package com.zsj.websocketredis.controller;
 
+import com.zsj.websocketredis.common.WebSocketManager;
+import com.zsj.websocketredis.pojo.WebSocket;
 import com.zsj.websocketredis.utils.SpringContextHolder;
 import com.zsj.websocketredis.utils.WebSocketUtil;
 import org.slf4j.Logger;
@@ -17,9 +19,6 @@ import java.util.Date;
        proxy_read_timeout 3600s; //这个时间不长的话就容易断开连接
  * @author xiongshiyan at 2018/10/10 , contact me with email yanshixiong@126.com or phone 15208384257
  */
-/*@Component
-@ServerEndpoint(value ="/websocket/connect/{identifier}")*/
-
 /**
  * 写自己的Endpoint类，继承自此类，添加@ServerEndpoint、@Component注解，
  * 然后在方法中添加@OnOpen、@OnMessage、@OnClose、@OnError即可，这些方法中可以调用父类方法
@@ -31,36 +30,6 @@ public class WebSocketEndpoint {
      */
     public static final String IDENTIFIER = "identifier";
     private static final Logger logger = LoggerFactory.getLogger(WebSocketEndpoint.class);
-
-    /// 无法通过这种方式注入组件
-    /*@Autowired
-    private WebSocketManager websocketManager;*/
-
-    ///
-    /*@OnOpen
-    public void onOpen(Session session, @PathParam(IDENTIFIER) String identifier) {
-        logger.info("*** WebSocket opened from sessionId " + session.getId() + " , identifier = " + identifier);
-        connect(identifier, session);
-    }*/
-    ///
-    /*@OnMessage
-    public void onMessage(String message, Session session , @PathParam(IDENTIFIER) String identifier) {
-        logger.info("接收到的数据为：" + message + " from sessionId " + session.getId() + " , identifier = " + identifier);
-        receiveMessage(identifier, message, session);
-    }*/
-    ////
-    /*@OnClose
-    public void onClose(Session session , @PathParam(IDENTIFIER) String identifier) {
-        logger.info("*** WebSocket closed from sessionId " + session.getId() + " , identifier = " + identifier);
-        disconnect(identifier);
-    }*/
-    ///
-    /*@OnError
-    public void onError(Throwable t , @PathParam(IDENTIFIER) String identifier){
-        logger.info("发生异常：, identifier = " + identifier);
-        logger.error(t.getMessage() , t);
-        disconnect(identifier);
-    }*/
 
     public void connect(String identifier, Session session) {
         try {

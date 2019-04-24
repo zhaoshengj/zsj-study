@@ -1,7 +1,7 @@
 package com.zsj.websocketredis.memory;
 
-import com.zsj.websocketredis.WebSocketManager;
-import com.zsj.websocketredis.config.WebSocketHeartBeatChecker;
+import com.zsj.websocketredis.common.WebSocketManager;
+import com.zsj.websocketredis.heartbeat.WebSocketHeartBeatChecker;
 import com.zsj.websocketredis.utils.SpringContextHolder;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.context.annotation.Bean;
@@ -13,6 +13,10 @@ import org.springframework.context.annotation.Configuration;
  */
 @Configuration
 public class MemoryWebSocketConfig {
+
+    static {
+        System.out.println("单机模式");
+    }
     /**
      * applicationContext全局保存器
      */
@@ -24,8 +28,8 @@ public class MemoryWebSocketConfig {
 
     @Bean(WebSocketManager.WEBSOCKET_MANAGER_NAME)
     @ConditionalOnMissingBean(name = WebSocketManager.WEBSOCKET_MANAGER_NAME)
-    public WebSocketManager webSocketManager() {
-        return (WebSocketManager) new MemWebSocketManager();
+    public MemWebSocketManager webSocketManager() {
+        return new MemWebSocketManager();
     }
 
     @Bean

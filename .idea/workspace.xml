@@ -2,12 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3ef059-e0e7-438b-b35c-4363a57dd684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Socket/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/SocketController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/TodoAtRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/TodoAtRemove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/pojo/WebSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketCloseEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketCloseEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketConnectEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketConnectEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/WebSocketEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebsocketRedisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebsocketRedisApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketHeartBeatChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketHeartBeatChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketSchedulingConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketSchedulingConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/EnableMemWebSocketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/EnableMemWebSocketManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemWebSocketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemWebSocketManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemoryWebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemoryWebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/DefaultRedisReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/DefaultRedisReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/EnableRedisWebSocketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/EnableRedisWebSocketManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/BroadCastAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/BroadCastAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/NoActionAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/NoActionAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/RemoveAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/RemoveAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/SendMessageAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/SendMessageAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,95 +78,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/WebSocketUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
-              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/TodoAtRemove.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketCloseEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketConnectEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketEndpoint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebsocketRedisApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -159,6 +91,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ServletRegistrationBean</find>
+      <find>ServerEndpointExporter</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -167,15 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/A-dockerfiles/git常用命令.xml" />
-        <option value="$PROJECT_DIR$/A-dockerfiles/git常用命令.html" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/Default1.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/Default2.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/testDefault.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/FunctionalInterface.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/lambda.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/Stream.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/StreamTest.java" />
         <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/StreamTest.java" />
         <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Thread1.java" />
         <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Thread2.java" />
@@ -190,12 +114,9 @@
         <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java" />
         <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/server/UserService.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/Socket/pom.xml" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/EnableMemWebSocketManager.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/ActionConfig.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisReceiver.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/EnableRedisWebSocketManager.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/SpringContextHolder.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/WebSocketUtil.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/TodoAtRemove.java" />
@@ -203,21 +124,33 @@
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketCloseEvent.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketConnectEvent.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/JsonUtil.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemoryWebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemWebSocketManager.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketManager.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/GetHttpSessionConfigurator.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketHeartBeatChecker.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketSchedulingConfig.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/Action.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/BroadCastAction.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/NoActionAction.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/RemoveAction.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/SendMessageAction.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/DefaultRedisReceiver.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/socketController.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/SocketController.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/GetHttpSessionConfigurator.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketEndpoint.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketSchedulingConfig.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketHeartBeatChecker.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/pojo/WebSocket.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/WebSocketEndpoint.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/EnableRedisWebSocketManager.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/EnableMemWebSocketManager.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemoryWebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemWebSocketManager.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebsocketRedisApplication.java" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketConfig.java" />
       </list>
     </option>
   </component>
@@ -238,7 +171,7 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="websocket-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -247,11 +180,10 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-59" />
-    <option name="y" value="-877" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="809" />
+    <option name="height" value="811" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -296,71 +228,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Socket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Socket" type="462c0819:PsiDirectoryNode" />
-              <item name="websocket-redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Socket" type="462c0819:PsiDirectoryNode" />
-              <item name="websocket-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Socket" type="462c0819:PsiDirectoryNode" />
-              <item name="websocket-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Socket" type="462c0819:PsiDirectoryNode" />
-              <item name="websocket-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Socket" type="462c0819:PsiDirectoryNode" />
-              <item name="websocket-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="websocketredis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Socket" type="462c0819:PsiDirectoryNode" />
-              <item name="websocket-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,7 +239,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556076446038" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556118168030" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -383,7 +251,11 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.zsj.nacosconsumer" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zsj.websocketredis.config" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Socket/websocket-redis/src/main/resources" />
       <recent name="$PROJECT_DIR$/cloudAlibaba" />
     </key>
   </component>
@@ -399,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.WebsocketRedisApplication">
+  <component name="RunManager" selected="Application.WebsocketRedisApplication">
     <configuration name="CallableAndFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.java8.ThreadsAndExecutors.CallableAndFuture" />
       <module name="javaversion" />
@@ -413,18 +285,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Executor1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaversion" />
+    <configuration name="WebsocketRedisApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsj.websocketredis.WebsocketRedisApplication" />
+      <module name="websocket-redis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.java8.ThreadsAndExecutors.*" />
+          <option name="PATTERN" value="com.zsj.websocketredis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion.java8.ThreadsAndExecutors" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.java8.ThreadsAndExecutors.Executor1" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -517,7 +386,6 @@
     </configuration>
     <list>
       <item itemvalue="Application.CallableAndFuture" />
-      <item itemvalue="JUnit.Executor1.test" />
       <item itemvalue="JUnit.Volatile1.test1" />
       <item itemvalue="JUnit.Volatile1" />
       <item itemvalue="JUnit.Volatile1.test" />
@@ -526,14 +394,15 @@
       <item itemvalue="Spring Boot.InterviewApplication" />
       <item itemvalue="Spring Boot.JavaversionApplication" />
       <item itemvalue="Spring Boot.WebsocketRedisApplication" />
+      <item itemvalue="Application.WebsocketRedisApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WebsocketRedisApplication" />
         <item itemvalue="JUnit.Volatile1.test" />
         <item itemvalue="JUnit.Volatile1" />
         <item itemvalue="JUnit.Volatile1.test1" />
         <item itemvalue="Application.CallableAndFuture" />
-        <item itemvalue="JUnit.Executor1.test" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +426,7 @@
       <workItem from="1555313376445" duration="9583000" />
       <workItem from="1555471815507" duration="43989000" />
       <workItem from="1555983061284" duration="12768000" />
-      <workItem from="1556074145004" duration="2226000" />
+      <workItem from="1556074145004" duration="29480000" />
     </task>
     <task id="LOCAL-00001" summary="pagehelper">
       <created>1556012150141</created>
@@ -573,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556012605895</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="websocket">
+      <created>1556076481575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556076481576</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -609,7 +485,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125349000" />
+    <option name="totallyTimeSpent" value="152603000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -621,11 +497,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-59" y="-877" width="1440" height="809" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="711" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.07779579" visible="true" weight="0.2761087" />
-      <window_info id="Structure" order="1" sideWeight="0.9222042" side_tool="true" weight="0.30371568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.096" visible="true" weight="0.25767368" />
+      <window_info id="Structure" order="1" sideWeight="0.904" side_tool="true" weight="0.25767368" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -634,8 +509,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.44072524" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.5216178" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.4394184" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" visible="true" weight="0.19224556" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.3299363" />
@@ -661,6 +536,44 @@
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.07779579" visible="true" weight="0.2761087" />
+      <window_info id="Structure" order="1" sideWeight="0.9222042" side_tool="true" weight="0.30371568" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.44072524" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" visible="true" weight="0.35564855" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32914925" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143063" side_tool="true" weight="0.32635984" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32635984" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49928468" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32914925" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="16" weight="0.32914925" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32904148" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.4048641" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -709,234 +622,207 @@
     <MESSAGE value="修改" />
     <MESSAGE value="pagehelper" />
     <MESSAGE value="分页安全性" />
-    <option name="LAST_COMMIT_MESSAGE" value="分页安全性" />
+    <MESSAGE value="websocket" />
+    <option name="LAST_COMMIT_MESSAGE" value="websocket" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.10/pagehelper-spring-boot-starter-1.2.10.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="237" selection-start-line="237" selection-end-line="237" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/NacosProviderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.16/druid-1.1.16.jar!/com/alibaba/druid/sql/parser/SQLParser.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="261" selection-start-line="261" selection-end-line="261" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1.jar!/org/apache/ibatis/type/TypeAliasRegistry.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="129" column="23" selection-start-line="129" selection-start-column="23" selection-end-line="129" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/mapper/UserDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.0.9.RELEASE/spring-tx-5.0.9.RELEASE.jar!/org/springframework/transaction/support/TransactionTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.0.9.RELEASE/spring-tx-5.0.9.RELEASE.jar!/org/springframework/transaction/support/TransactionCallback.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/mapper/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.8/pagehelper-5.1.8.jar!/com/github/pagehelper/PageInfo.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2686">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.9.RELEASE/spring-context-5.0.9.RELEASE.jar!/org/springframework/stereotype/Controller.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="61" column="35" lean-forward="true" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/server/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
-          <folding>
-            <element signature="e#3051#3052#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="44" column="28" lean-forward="true" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="79" column="17" lean-forward="true" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Volatile1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/pom.xml">
+    <entry file="file://$PROJECT_DIR$/A-dockerfiles/docker命令详解（build篇）">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/EnableMemWebSocketManager.java">
+    <entry file="file://$PROJECT_DIR$/A-dockerfiles/docker命令详解（Dockerfile）">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-dockerfiles/docker命令详解（run）">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.17/tomcat-embed-websocket-9.0.17.jar!/javax/websocket/OnOpen.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
           <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemoryWebSocketConfig.java">
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="347">
+          <caret line="90" column="17" lean-forward="true" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.17/tomcat-embed-websocket-9.0.17.jar!/javax/websocket/server/ServerEndpointConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="42" column="53" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-websocket/5.0.6.RELEASE/spring-websocket-5.0.6.RELEASE.jar!/org/springframework/web/socket/server/standard/ServerEndpointExporter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1341">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/ApplicationContextAware.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.6.RELEASE/spring-data-redis-2.1.6.RELEASE.jar!/org/springframework/data/redis/core/StringRedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.17/tomcat-embed-websocket-9.0.17.jar!/org/apache/tomcat/websocket/pojo/PojoEndpointBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/pojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/pojo/WebSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/TodoAtRemove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketSchedulingConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemWebSocketManager.java">
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketConnectEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/GetHttpSessionConfigurator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="210">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketHeartBeatChecker.java">
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketHeartBeatChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+        <state relative-caret-position="122">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketSchedulingConfig.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/ApplicationEventPublisher.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="90">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/ActionConfig.java">
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketCloseEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1596">
+          <caret line="54" column="64" selection-start-line="54" selection-start-column="64" selection-end-line="54" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/RemoveAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/Action.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -945,18 +831,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/BroadCastAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="201">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/RemoveAction.java">
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/NoActionAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="165">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -965,25 +851,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/SendMessageAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.55/fastjson-1.2.55.jar!/com/alibaba/fastjson/JSONObject.class">
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/ActionConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1556">
-          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/NoActionAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -997,17 +876,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/JsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/WebSocketUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-290">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/ApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/SpringContextHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.17/tomcat-embed-websocket-9.0.17.jar!/org/apache/tomcat/websocket/pojo/PojoMessageHandlerWholeBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1709#1710#0" expanded="true" />
+            <element signature="e#1764#1765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/EnableRedisWebSocketManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="210">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/EnableMemWebSocketManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/SocketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/WebSocketEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/DefaultRedisReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="193">
+          <caret line="56" selection-start-line="56" selection-end-line="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1016,8 +975,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        <state relative-caret-position="-1100">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemWebSocketManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="19" column="81" selection-start-line="19" selection-start-column="81" selection-end-line="19" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebsocketRedisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1026,97 +1012,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemoryWebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/JsonUtil.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/ConditionalOnMissingBean.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="111">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/SpringContextHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/WebSocketUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/TodoAtRemove.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/ConditionOutcome.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketCloseEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketConnectEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebSocketEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebsocketRedisApplication.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/ConditionalOnBean.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/OnBeanCondition.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="-395">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
   </component>
   <component name="masterDetails">

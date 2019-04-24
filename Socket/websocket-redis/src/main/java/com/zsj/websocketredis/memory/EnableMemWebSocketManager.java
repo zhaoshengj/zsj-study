@@ -13,4 +13,6 @@ import java.lang.annotation.*;
 @Inherited
 @Import({MemoryWebSocketConfig.class})
 public @interface EnableMemWebSocketManager {
+
+    String[] packages() default "";
 }

@@ -13,4 +13,6 @@ import java.lang.annotation.*;
 @Inherited
 @Import({RedisWebSocketConfig.class})
 public @interface EnableRedisWebSocketManager {
+
+    String[] packages() default "";
 }

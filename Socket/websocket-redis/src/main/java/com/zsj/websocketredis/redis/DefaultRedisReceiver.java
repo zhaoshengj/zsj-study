@@ -3,7 +3,7 @@ package com.zsj.websocketredis.redis;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.zsj.websocketredis.WebSocketManager;
+import com.zsj.websocketredis.common.WebSocketManager;
 import com.zsj.websocketredis.redis.action.Action;
 import com.zsj.websocketredis.utils.SpringContextHolder;
 import org.slf4j.Logger;
