@@ -69,10 +69,10 @@ public class RedisWebSocketManager extends MemWebSocketManager {
     public void sendMessage(String identifier, String message) {
         WebSocket webSocket = get(identifier);
         //本地能找到就直接发
-        if(null != webSocket){
+       /* if(null != webSocket){
             WebSocketUtil.sendMessage(webSocket.getSession() , message);
             return;
-        }
+        }*/
 
 
         Map<String , Object> map = new HashMap<>(3);
@@ -119,6 +119,7 @@ public class RedisWebSocketManager extends MemWebSocketManager {
         ValueOperations<String, String> value = stringRedisTemplate.opsForValue();
         return getCount(value);
     }
+
     private int getCount(ValueOperations<String, String> value) {
         String countStr = value.get(COUNT_KEY);
         int count = 0;

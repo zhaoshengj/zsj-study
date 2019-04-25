@@ -29,9 +29,7 @@ import java.util.concurrent.CountDownLatch;
 //@Configuration
 @Import(ActionConfig.class)
 public class RedisWebSocketConfig {
-    static {
-        System.out.println("redis 模式");
-    }
+
     @Bean
     public StringRedisTemplate stringRedisTemplate(RedisConnectionFactory redisConnectionFactory) {
         return new StringRedisTemplate(redisConnectionFactory);

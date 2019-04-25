@@ -49,6 +49,7 @@ public class DefaultRedisReceiver implements RedisReceiver{
         }
         return SpringContextHolder.getBean(actionName, Action.class);
     }
+
     protected WebSocketManager getWebSocketManager() {
         boolean containsBean = SpringContextHolder.getApplicationContext().containsBean(WebSocketManager.WEBSOCKET_MANAGER_NAME);
         if(!containsBean){

@@ -36,7 +36,7 @@ public class WebSocketHeartBeatChecker {
             long interval = now.getTime() - webSocket.getLastHeart().getTime();
             if(interval >= timeSpans){
                 //说明失去心跳了
-                logger.info("{} 失去心跳了" , identifier);
+                //logger.info("{} 失去心跳了" , identifier);
                 toRemoves.add(webSocket);
             }
         });

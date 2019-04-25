@@ -6,6 +6,8 @@ import com.zsj.websocketredis.pojo.WebSocket;
 import com.zsj.websocketredis.common.WebSocketManager;
 import com.zsj.websocketredis.utils.WebSocketUtil;
 
+import java.util.logging.Logger;
+
 /**
  * {
  *     "action":"sendMessage",
@@ -30,7 +32,9 @@ public class SendMessageAction implements Action{
         WebSocket webSocket = manager.get(identifier);
         if(null == webSocket){
             return;
+            //System.out.println(identifier);
         }
+        //new BroadCastAction().doMessage(manager,object);
         WebSocketUtil.sendMessage(webSocket.getSession() , object.getString(MESSAGE));
     }
 }

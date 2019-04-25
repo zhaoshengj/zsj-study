@@ -14,9 +14,6 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class MemoryWebSocketConfig {
 
-    static {
-        System.out.println("单机模式");
-    }
     /**
      * applicationContext全局保存器
      */

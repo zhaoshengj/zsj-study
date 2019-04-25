@@ -11,6 +11,7 @@ public class WebsocketRedisApplicationTests {
 
     @Test
     public void contextLoads() {
+
     }
 
 }
