@@ -1,4 +1,4 @@
-package com.zsj.interview.LeetCode;
+package com.zsj.interview.leetCode;
 
 import org.junit.Test;
 

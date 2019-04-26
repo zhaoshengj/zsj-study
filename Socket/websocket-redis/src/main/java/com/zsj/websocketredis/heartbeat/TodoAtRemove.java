@@ -1,6 +1,6 @@
 package com.zsj.websocketredis.heartbeat;
 
-import com.zsj.websocketredis.pojo.WebSocket;
+import com.zsj.websocketredis.common.WebSocket;
 
 /**
  * @author xiongshiyan at 2019/3/20 , contact me with email yanshixiong@126.com or phone 15208384257

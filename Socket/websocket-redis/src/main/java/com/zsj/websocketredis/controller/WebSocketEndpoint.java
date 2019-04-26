@@ -1,7 +1,7 @@
 package com.zsj.websocketredis.controller;
 
 import com.zsj.websocketredis.common.WebSocketManager;
-import com.zsj.websocketredis.pojo.WebSocket;
+import com.zsj.websocketredis.common.WebSocket;
 import com.zsj.websocketredis.utils.SpringContextHolder;
 import com.zsj.websocketredis.utils.WebSocketUtil;
 import org.slf4j.Logger;

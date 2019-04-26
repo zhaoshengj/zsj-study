@@ -1,6 +1,6 @@
 package com.zsj.websocketredis.heartbeat;
 
-import com.zsj.websocketredis.pojo.WebSocket;
+import com.zsj.websocketredis.common.WebSocket;
 import com.zsj.websocketredis.common.WebSocketManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

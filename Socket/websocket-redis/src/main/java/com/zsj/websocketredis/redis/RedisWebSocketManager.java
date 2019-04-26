@@ -1,15 +1,13 @@
 package com.zsj.websocketredis.redis;
 
 
-import com.zsj.websocketredis.common.WebSocketManager;
-import com.zsj.websocketredis.pojo.WebSocket;
+import com.zsj.websocketredis.common.WebSocket;
 import com.zsj.websocketredis.memory.MemWebSocketManager;
 import com.zsj.websocketredis.redis.action.Action;
 import com.zsj.websocketredis.redis.action.BroadCastAction;
 import com.zsj.websocketredis.redis.action.RemoveAction;
 import com.zsj.websocketredis.redis.action.SendMessageAction;
 import com.zsj.websocketredis.utils.JsonUtil;
-import com.zsj.websocketredis.utils.WebSocketUtil;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
 

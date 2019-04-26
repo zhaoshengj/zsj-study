@@ -2,7 +2,7 @@ package com.zsj.websocketredis.redis.action;
 
 
 import com.alibaba.fastjson.JSONObject;
-import com.zsj.websocketredis.pojo.WebSocket;
+import com.zsj.websocketredis.common.WebSocket;
 import com.zsj.websocketredis.common.WebSocketManager;
 
 import java.util.Map;

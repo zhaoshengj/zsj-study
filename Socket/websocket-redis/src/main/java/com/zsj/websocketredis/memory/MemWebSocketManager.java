@@ -1,6 +1,6 @@
 package com.zsj.websocketredis.memory;
 
-import com.zsj.websocketredis.pojo.WebSocket;
+import com.zsj.websocketredis.common.WebSocket;
 import com.zsj.websocketredis.common.WebSocketCloseEvent;
 import com.zsj.websocketredis.common.WebSocketConnectEvent;
 import com.zsj.websocketredis.common.WebSocketManager;
