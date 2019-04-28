@@ -8,4 +8,4 @@
 	/*opacity:0.6;  /*非IE浏览器下设置透明度为60%*/
 	/*display:none; /* http://www.jb51.net */
 	z-Index:2;}
-#hidebox { position:absolute;width:60%;height:400px;top:100px;left:30%;background-color:#ffffff;display:none;cursor:pointer;z-Index:3;}
+#hidebox { position:absolute;width:80%;height:50%;top:100px;left:10%;background-color:#ffffff;display:none;cursor:pointer;z-Index:3;}
