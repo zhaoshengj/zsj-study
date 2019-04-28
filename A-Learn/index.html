@@ -23,6 +23,10 @@
 
     </head>
     <body>
+        <div class="logoImg" onclick="hide()" id="hidebox">
+            <img src="img/zfb.jpeg" id="zfb" style="width: 45%;height: 100%;float: left">
+            <img src="img/wx.jpeg" id="wx" style="width: 45%;height: 100%;float: right">
+        </div>
         <div class="container" id="container">
             <aside class="left-bar" id="leftBar">
                 <div class="title">
@@ -42,7 +46,7 @@
                                 <use xlink:href="#icon-tubiaozhizuomobanyihuifu-13">
                                 </use>
                             </svg>
-                             项目地址
+                             更多（源路径）
                         </a>
                         <i class="line">
                         </i>
@@ -53,17 +57,34 @@
                                 <use xlink:href="#icon-tubiaozhizuomobanyihuifu-15">
                                 </use>
                             </svg>
-                            个人学习
+                            学习汇总
                         </a>
                         <i class="line">
                         </i>
                     </div>
                     <ul class="nav-item" id="navItem" style="overflow: hidden;display: none">
-
+                        <li>
+                            <a href="#all">
+                                <svg class="icon" aria-hidden="true">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-16">
+                                    </use>
+                                </svg>
+                                官网汇总
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#learn">
+                                <svg class="icon" aria-hidden="true">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-15">
+                                    </use>
+                                </svg>
+                                学习网站
+                            </a>
+                        </li>
                         <li>
                             <a href="#javaBasic">
                                 <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-4">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-19">
                                     </use>
                                 </svg>
                                 JAVA基础
@@ -76,6 +97,15 @@
                                     </use>
                                 </svg>
                                 JAVA框架
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#live">
+                                <svg class="icon" aria-hidden="true">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-4">
+                                    </use>
+                                </svg>
+                                JAVA工具
                             </a>
                         </li>
                         <li>
@@ -118,19 +148,10 @@
                         <li>
                             <a href="#dateStudy">
                                 <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-7">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-23">
                                     </use>
                                 </svg>
                                 好好学习
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#live">
-                                <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-19">
-                                    </use>
-                                </svg>
-                                工具
                             </a>
                         </li>
                         <br>
@@ -157,53 +178,71 @@
                         <h1>
                             <span style="color: crimson">  知之者不如好之者，好之者不如乐之者！ </span>
                         </h1>
+                        <a href="javascript:void(0)" onclick="show()">点击有惊喜</a>
                     </div>
-                    <!-- JAVA基础 -->
+                    <!--官网汇总-->
                     <div class="box">
-                        <a href="#" name="javaBasic">
+                        <a href="#" name="all">
                         </a>
                         <div class="sub-category">
                             <div>
                                 <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-9">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-16">
                                     </use>
                                 </svg>
-                                JAVA基础
+                                官网汇总
                             </div>
                         </div>
                         <div>
-                            <a target="_blank" href="https://github.com/zhaoshengj/zsj-springcloud">
+                            <a target="_blank" href="https://www.google.com/s2/favicons?domain=">
                                 <div class="item">
                                     <div class="logo">
-                                        <img src="img/github.ico" alt="github">
-                                        github
+                                        <img src="https://www.google.com/favicon.ico" >
+                                        ICO 获取
                                     </div>
                                     <div class="desc">
-                                        个人学习的一个项目，嘻嘻
+                                        一般域名/favicon.ico。获取任意网站的ico在domain=后面添加域名即可
                                     </div>
                                 </div>
                             </a>
-                        </div>
-                    </div>
-                    <!-- JAVA框架 -->
-                    <div class="box">
-                        <a href="#" name="javaFrame">
-                        </a>
-                        <div class="sub-category">
-                            <div>
-                                <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-4">
-                                    </use>
-                                </svg>
-                                JAVA框架
-                            </div>
-                        </div>
-                        <div>
+                            <a target="_blank" href="https://www.oracle.com/cn/index.html">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="https://www.google.com/s2/favicons?domain=http://www.oracle.com" >
+                                        Oracle 甲骨文
+                                    </div>
+                                    <div class="desc">
+                                        java下载
+                                    </div>
+                                </div>
+                            </a>
+                            <a target="_blank" href="http://maven.apache.org/download.cgi">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="http://maven.apache.org/favicon.ico" >
+                                        Apache Maven Project
+                                    </div>
+                                    <div class="desc">
+                                        maven 下载地址
+                                    </div>
+                                </div>
+                            </a>
+                            <a target="_blank" href="https://git-scm.com/downloads">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="https://git-scm.com/favicon.ico" >
+                                        Git
+                                    </div>
+                                    <div class="desc">
+                                        git 下载地址
+                                    </div>
+                                </div>
+                            </a>
                             <a target="_blank" href="https://spring.io">
                                 <div class="item">
                                     <div class="logo">
                                         <img src="https://spring.io/img/homepage/icon-spring-cloud.svg" alt="Spring 官网">
-                                       Spring官方网站
+                                        Spring官方网站
                                     </div>
                                     <div class="desc">
                                         强大的JAVA 框架
@@ -221,16 +260,208 @@
                                     </div>
                                 </div>
                             </a>
+
+                            <a target="_blank" href="https://mvnrepository.com/">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="https://mvnrepository.com/assets/images/7080b8b0f6f48e6fbaffd5f9d85fcc7f-favicon.ico" ></img>
+                                        Maven Repository
+                                    </div>
+                                    <div class="desc">
+                                        最大开源maven版本库
+                                    </div>
+                                </div>
+                            </a>
+
+                            <a target="_blank" href="https://opsx.alibaba.com/?lang=zh-CN">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="//img.alicdn.com/tfs/TB1gOVov.OWBKNjSZKzXXXfWFXa-64-64.png" ></img>
+                                        阿里开源镜像站
+                                    </div>
+                                    <div class="desc">
+                                        阿里所有的开源项目都在这！
+                                    </div>
+                                </div>
+                            </a>
+
+                            <a target="_blank" href="https://www.oschina.net/project">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="https://www.oschina.net/favicon.ico" ></img>
+                                        OSCHINA(开源软件)
+                                    </div>
+                                    <div class="desc">
+                                        中文开源技术交流社区
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
-                    <!-- 网络基础 -->
+                    <!-- 学习网站 -->
                     <div class="box">
-                        <a href="" name="h5">
+                        <a href="#" name="learn">
                         </a>
                         <div class="sub-category">
                             <div>
                                 <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-21">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-15">
+                                    </use>
+                                </svg>
+                                学习网站
+                            </div>
+                        </div>
+                        <div>
+                            <a target="_blank" href="http://blog.didispace.com/">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="http://blog.didispace.com/images/favicon.ico" ></img>
+                                        程序猿DD
+                                    </div>
+                                    <div class="desc">
+                                        个人关注，而且不错的学习网站，包含Spring Cloud ,Spring Boot等
+                                    </div>
+                                </div>
+                            </a>
+                            <a target="_blank" href="https://www.liaoxuefeng.com/">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="https://www.feiyangedu.com/favicon.ico" ></img>
+                                        廖雪峰的官方网站
+                                    </div>
+                                    <div class="desc">
+                                        一些基础学习内容
+                                    </div>
+                                </div>
+                            </a>
+                            <a target="_blank" href="https://leetcode-cn.com/">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="https://leetcode-cn.com/favicon.ico" alt="leetcode">
+                                        leetcode(力扣)
+                                    </div>
+                                    <div class="desc">
+                                        （算法刷题）全球极客挚爱的高质量技术成长平台！
+                                    </div>
+                                </div>
+                            </a>
+                            <a target="_blank" href="https://ke.qq.com/">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="https://ke.qq.com/favicon.ico">
+                                        腾讯课堂
+                                    </div>
+                                    <div class="desc">
+                                        闲的时候可以看一些视频
+                                    </div>
+                                </div>
+                            </a>
+                            <a target="_blank" href="http://naotu.baidu.com/">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="http://naotu.baidu.com/favicon.ico">
+                                        百度脑图
+                                    </div>
+                                    <div class="desc">
+                                        个人使用，知识点进行汇总
+                                    </div>
+                                </div>
+                            </a>
+                            <a target="_blank" href="http://how2j.cn/">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="http://how2j.cn/favicon.ico">
+                                        HOW2J
+                                    </div>
+                                    <div class="desc">
+                                        简洁的界面，较全的java知识点
+                                    </div>
+                                </div>
+                            </a>
+                            <a target="_blank" href="https://code.ziqiangxuetang.com/">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="https://code.ziqiangxuetang.com/favicon.ico">
+                                        自强学堂
+                                    </div>
+                                    <div class="desc">
+                                        学习、分享、让你更强
+                                    </div>
+                                </div>
+                            </a>
+                            <a target="_blank" href="https://www.runoob.com">
+                                <div class="item">
+                                    <div class="logo">
+                                        <img src="https://www.runoob.com/favicon.ico">
+                                        菜鸟教程
+                                    </div>
+                                    <div class="desc">
+                                        学的不仅是技术，更是梦想！
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- JAVA基础 -->
+                    <div class="box">
+                        <a href="#" name="javaBasic">
+                        </a>
+                        <div class="sub-category">
+                            <div>
+                                <svg class="icon" aria-hidden="true">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-19">
+                                    </use>
+                                </svg>
+                                JAVA基础
+                            </div>
+                        </div>
+                        <div>
+
+                        </div>
+                    </div>
+                    <!-- JAVA框架 -->
+                    <div class="box">
+                        <a href="#" name="javaFrame">
+                        </a>
+                        <div class="sub-category">
+                            <div>
+                                <svg class="icon" aria-hidden="true">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-17">
+                                    </use>
+
+                                </svg>
+                                JAVA框架
+                            </div>
+                        </div>
+                        <div>
+
+                        </div>
+                    </div>
+                    <!-- JAVA工具 -->
+                    <div class="box">
+                        <a href="" name="live">
+                        </a>
+                        <div class="sub-category">
+                            <div>
+                                <svg class="icon" aria-hidden="true">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-4">
+                                    </use>
+                                </svg>
+                                JAVA工具
+                            </div>
+                        </div>
+                        <div>
+
+                        </div>
+                    </div>
+                    <!-- 网络基础 -->
+                    <div class="box">
+                        <a href="" name="internet">
+                        </a>
+                        <div class="sub-category">
+                            <div>
+                                <svg class="icon" aria-hidden="true">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-14">
                                     </use>
                                 </svg>
                                 </i>
@@ -238,28 +469,6 @@
                             </div>
                         </div>
                         <div>
-                            <a target="_blank" href="https://freessl.org/">
-                                <div class="item">
-                                    <div class="logo">
-                                        <img src="img/freessl.ico">
-                                        FreeSSL
-                                    </div>
-                                    <div class="desc">
-                                        一个申请免费HTTPS证书的网站
-                                    </div>
-                                </div>
-                            </a>
-                            <a target="_blank" href="http://ip-api.com">
-                                <div class="item">
-                                    <div class="logo">
-                                        <img src="img/freessl.ico">
-                                        IP DNS 查询
-                                    </div>
-                                    <div class="desc">
-                                        取外网IP
-                                    </div>
-                                </div>
-                            </a>
 
                         </div>
                     </div>
@@ -287,7 +496,7 @@
                         <div class="sub-category">
                             <div>
                                 <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-17">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-21">
                                     </use>
                                 </svg>
                                 数据库
@@ -304,7 +513,7 @@
                         <div class="sub-category">
                             <div>
                                 <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-3">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-22">
                                     </use>
                                 </svg>
                                 服务器
@@ -321,45 +530,28 @@
                         <div class="sub-category">
                             <div>
                                 <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-14">
+                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-23">
                                     </use>
                                 </svg>
                                 好好学习
                             </div>
                         </div>
                         <div>
-                            <a target="_blank" href="https://ke.qq.com/">
+                            <a target="_blank" href="https://github.com/zhaoshengj/zsj-springcloud">
                                 <div class="item">
-                                    <div class="no-logo">
-                                        腾讯课堂
+                                    <div class="logo">
+                                        <img src="img/github.ico" alt="github">
+                                        github
+                                    </div>
+                                    <div class="desc">
+                                        个人学习的一个项目，嘻嘻
                                     </div>
                                 </div>
                             </a>
+
                         </div>
                     </div>
-                    <!-- 工具 -->
-                    <div class="box">
-                        <a href="" name="live">
-                        </a>
-                        <div class="sub-category">
-                            <div>
-                                <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-tubiaozhizuomobanyihuifu-19">
-                                    </use>
-                                </svg>
-                                工具
-                            </div>
-                        </div>
-                        <div>
-                            <a target="_blank" href="https://kyfw.12306.cn/otn/">
-                                <div class="item">
-                                    <div class="no-logo">
-                                        12306
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
+
                     <footer class="footer">
                         <div class="copyright">
                             <div>

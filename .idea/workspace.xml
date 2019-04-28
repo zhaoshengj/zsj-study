@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3ef059-e0e7-438b-b35c-4363a57dd684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A-Learn/JavaTools" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A-Learn/js/click.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/one/内容" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-tool/JavaTools" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/LeetCode/Algorithm1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/java/ListBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/ListBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/java/MapBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/MapBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/WebSocketEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/WebSocketEndpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/TodoAtRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/TodoAtRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketHeartBeatChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketHeartBeatChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemWebSocketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemWebSocketManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/pojo/WebSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/RemoveAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/RemoveAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/SendMessageAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/SendMessageAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-Learn/css/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/css/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-Learn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-Learn/js/click.js" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/js/click.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-doc/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/start.sh" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,17 +61,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A-doc/default.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="314" column="30" lean-forward="true" selection-start-line="314" selection-start-column="30" selection-end-line="314" selection-end-column="30" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#nav#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#nav#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="405">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/A-Learn/JavaTools">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -108,6 +97,11 @@
       <find>state</find>
       <find>icon-tubiaozhizuomobanyihuifu</find>
       <find>sill</find>
+      <find>server</find>
+      <find>dateStudy</find>
+      <find>database</find>
+      <find>system</find>
+      <find>internet</find>
       <find>live</find>
     </findStrings>
   </component>
@@ -117,11 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/mapper/UserDao.xml" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/server/UserService.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Socket/pom.xml" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/ActionConfig.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisReceiver.java" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/SpringContextHolder.java" />
@@ -166,8 +155,13 @@
         <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java" />
         <option value="$PROJECT_DIR$/A-tool/JavaTools" />
         <option value="$PROJECT_DIR$/A-tool/web.html" />
+        <option value="$PROJECT_DIR$/A-Learn/nginx.conf" />
+        <option value="$PROJECT_DIR$/A-Learn/default.conf" />
+        <option value="$PROJECT_DIR$/A-doc/start.sh" />
+        <option value="$PROJECT_DIR$/A-Learn/test.html" />
         <option value="$PROJECT_DIR$/A-Learn/js/click.js" />
         <option value="$PROJECT_DIR$/A-Learn/index.html" />
+        <option value="$PROJECT_DIR$/A-Learn/css/page.css" />
       </list>
     </option>
   </component>
@@ -180,17 +174,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="websocket-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="websocket-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -253,11 +237,6 @@
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="A-Learn" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -273,7 +252,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556271221456" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556429612437" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -282,6 +261,9 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/A-doc" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.zsj.javaversion" />
       <recent name="com.zsj.nacosconsumer" />
@@ -462,7 +444,7 @@
       <workItem from="1555313376445" duration="9583000" />
       <workItem from="1555471815507" duration="43989000" />
       <workItem from="1555983061284" duration="12768000" />
-      <workItem from="1556074145004" duration="67368000" />
+      <workItem from="1556074145004" duration="90276000" />
     </task>
     <task id="LOCAL-00001" summary="pagehelper">
       <created>1556012150141</created>
@@ -499,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556171093298</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="学习界面">
+      <created>1556271272835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556271272835</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -535,7 +524,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190491000" />
+    <option name="totallyTimeSpent" value="213399000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -548,7 +537,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-59" y="-877" width="1440" height="809" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.07531381" visible="true" weight="0.1602289" />
       <window_info id="Structure" order="1" sideWeight="0.9246862" side_tool="true" weight="0.27539343" />
@@ -675,58 +663,10 @@
     <MESSAGE value="分页安全性" />
     <MESSAGE value="websocket" />
     <MESSAGE value="websocket连接，两种策略" />
-    <option name="LAST_COMMIT_MESSAGE" value="websocket连接，两种策略" />
+    <MESSAGE value="学习界面" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习界面" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/testDefault.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/Default1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/Default2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/FunctionalInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Thread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Volatile1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/MapBasic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -900,13 +840,6 @@
     <entry file="file://$PROJECT_DIR$/A-Learn/img/75.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/js/click.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A-Learn/img/AlloyTeam.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -944,10 +877,23 @@
     <entry file="file://$PROJECT_DIR$/A-Learn/img/zsj.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/JavaTools">
+    <entry file="file://$PROJECT_DIR$/A-doc/docker命令（run）">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/git命令">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/js/iconfont.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -957,46 +903,91 @@
     <entry file="file://$PROJECT_DIR$/A-doc/docker命令（Dockerfile）">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker命令（run）">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/git命令">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/A-doc/nginx命令">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/css/page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/js/iconfont.js">
+    <entry file="file://$PROJECT_DIR$/A-doc/error.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/access.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A-Learn/origin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="713" column="19" selection-start-line="713" selection-start-column="19" selection-end-line="713" selection-end-column="19" />
+        <state relative-caret-position="317">
+          <caret line="921" column="42" lean-forward="true" selection-start-line="916" selection-start-column="36" selection-end-line="921" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/js/click.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="314" column="30" lean-forward="true" selection-start-line="314" selection-start-column="30" selection-end-line="314" selection-end-column="30" />
+        <state relative-caret-position="159">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#nav#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#nav#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/default.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/JavaTools">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
