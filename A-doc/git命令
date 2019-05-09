@@ -1,5 +1,10 @@
 git clone 地址
 //
+发现refusing to merge unrelated histories，无法pull
+因为他们是两个不同的项目，要把两个不同的项目合并，git需要添加一句代码，在git pull，
+这句代码是在git 2.9.2版本发生的，最新的版本需要添加--allow-unrelated-histories
+git pull origin master --allow-unrelated-histories
+
 git pull --rebase
 //日志
 git log
