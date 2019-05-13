@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>websocket-redis</module>
+        <module>netty</module>
     </modules>
 
 

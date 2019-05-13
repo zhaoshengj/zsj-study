@@ -10,9 +10,10 @@ import java.util.concurrent.*;
  * @date 2019-04-19  16:06
  */
 public class Executor1 {
+    static  ExecutorService executor = Executors.newSingleThreadExecutor();
 
     public static void main(String[] args) throws InterruptedException {
-        ExecutorService executor = Executors.newSingleThreadExecutor();
+
 
         executor.submit(() -> {
             String threadName = Thread.currentThread().getName();
