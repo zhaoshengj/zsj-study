@@ -1,0 +1,7 @@
+查看mysql数据库连接数、并发数相关信息
+
+ show full PROCESSLIST;//连接信息
+
+ show status like 'Threads%';
+
+ show variables like '%max_connections%'; //查询最大连接数

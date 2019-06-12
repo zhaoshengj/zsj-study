@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3ef059-e0e7-438b-b35c-4363a57dd684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/platform/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/docker配置文件/data/nacos.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/docker配置文件/data/sentinel.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/mysql命令" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/CounterLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/LeakyBucketLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/RateLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/TokenBucketLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/LockTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-Learn/css/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/css/page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A-Learn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/docker配置文件/data/my.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/docker配置文件/data/my.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-doc/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/docker配置文件/data/Dockerfile(sentinel)" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basic/interview/doc/面试总结" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/interview/doc/面试总结" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/Algorithm/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/algorithm/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,7 +71,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="275" column="54" lean-forward="true" selection-start-line="275" selection-start-column="54" selection-end-line="275" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,6 +105,8 @@
       <find>system</find>
       <find>internet</find>
       <find>live</find>
+      <find>no-logo</find>
+      <find>item</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -91,33 +115,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketHeartBeatChecker.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/pojo/WebSocket.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/WebSocketEndpoint.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/EnableRedisWebSocketManager.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/EnableMemWebSocketManager.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemWebSocketManager.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketHeartBeatChecker.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemoryWebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebsocketRedisApplication.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/DefaultRedisReceiver.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/test/java/com/zsj/websocketredis/WebsocketRedisApplicationTests.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/SendMessageAction.java" />
         <option value="$PROJECT_DIR$/A-dockerfiles/nginx命令" />
         <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketConfig.java" />
         <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/lock/lockOne.java" />
         <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/one/内容" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java" />
         <option value="$PROJECT_DIR$/A-tool/JavaTools" />
         <option value="$PROJECT_DIR$/A-tool/web.html" />
         <option value="$PROJECT_DIR$/A-Learn/nginx.conf" />
         <option value="$PROJECT_DIR$/A-Learn/default.conf" />
         <option value="$PROJECT_DIR$/A-Learn/test.html" />
         <option value="$PROJECT_DIR$/A-Learn/js/click.js" />
-        <option value="$PROJECT_DIR$/A-Learn/css/page.css" />
         <option value="$PROJECT_DIR$/A-Learn/origin.html" />
         <option value="$PROJECT_DIR$/A-doc/git命令" />
         <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/user.java" />
@@ -136,11 +144,27 @@
         <option value="$PROJECT_DIR$/A-doc/docker配置文件/mysql/start.sh" />
         <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/mysql.sh" />
         <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/redis.sh" />
-        <option value="$PROJECT_DIR$/A-doc/Dockerfile" />
         <option value="$PROJECT_DIR$/A-doc/项目docker/platform/start.sh" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" />
         <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/my.cnf" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/algorithm/Sort.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/ConcurrentLimit.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/CounterLimiter.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/RateLimiter.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/CounterLimiter.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/LeakyBucketLimiter.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/TokenBucketLimiter.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/LockTwo.java" />
         <option value="$PROJECT_DIR$/Basic/interview/doc/面试总结" />
+        <option value="$PROJECT_DIR$/A-doc/Dockerfile" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/Dockerfile" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/nacos.sh" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/sentinel.sh" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/A-doc/mysql命令" />
+        <option value="$PROJECT_DIR$/A-Learn/css/page.css" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" />
         <option value="$PROJECT_DIR$/A-Learn/index.html" />
       </list>
     </option>
@@ -222,31 +246,34 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557915561374" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560305723192" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/A-doc/docker配置文件/data" />
+      <recent name="$PROJECT_DIR$/A-doc/docker配置文件/nginx" />
+      <recent name="$PROJECT_DIR$/A-doc" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.zsj.javaversion" />
       <recent name="com.zsj.nacosconsumer" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zsj.websocketredis.config" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/A-doc/docker配置文件/data" />
       <recent name="$PROJECT_DIR$/A-doc/项目docker/platform" />
       <recent name="$PROJECT_DIR$/A-doc/docker配置文件/mysql" />
       <recent name="$PROJECT_DIR$/Socket/websocket-redis/src/main/resources" />
       <recent name="$PROJECT_DIR$/cloudAlibaba" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zsj.websocketredis.config" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/A-doc/docker配置文件/nginx" />
-      <recent name="$PROJECT_DIR$/A-doc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -261,82 +288,76 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Sort.mergeSort">
-    <configuration name="Sort.bubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LockTwo.main">
+    <configuration name="LockTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.lock.LockTwo" />
       <module name="javaversion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.Algorithm.*" />
+          <option name="PATTERN" value="com.zsj.javaversion.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion.Algorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.Algorithm.Sort" />
-      <option name="METHOD_NAME" value="bubbleSort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockTwo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.lock.LockTwo1" />
+      <module name="javaversion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zsj.javaversion.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterLimiter.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaversion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zsj.javaversion.limit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zsj.javaversion.limit" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.limit.CounterLimiter" />
+      <option name="METHOD_NAME" value="main" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort.heapSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeakyBucketLimiter.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaversion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.Algorithm.*" />
+          <option name="PATTERN" value="com.zsj.javaversion.limit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion.Algorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.Algorithm.Sort" />
-      <option name="METHOD_NAME" value="heapSort" />
+      <option name="PACKAGE_NAME" value="com.zsj.javaversion.limit" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.limit.LeakyBucketLimiter" />
+      <option name="METHOD_NAME" value="main" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort.mergeSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LockTwo.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaversion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.Algorithm.*" />
+          <option name="PATTERN" value="com.zsj.javaversion.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion.Algorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.Algorithm.Sort" />
-      <option name="METHOD_NAME" value="mergeSort" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sort.quickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaversion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion.Algorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.Algorithm.Sort" />
-      <option name="METHOD_NAME" value="quickSort" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sort.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaversion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion.Algorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.Algorithm.Sort" />
-      <option name="METHOD_NAME" value="sort" />
+      <option name="PACKAGE_NAME" value="com.zsj.javaversion.lock" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.lock.LockTwo" />
+      <option name="METHOD_NAME" value="main" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -386,11 +407,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Sort.heapSort" />
-      <item itemvalue="JUnit.Sort.sort" />
-      <item itemvalue="JUnit.Sort.bubbleSort" />
-      <item itemvalue="JUnit.Sort.quickSort" />
-      <item itemvalue="JUnit.Sort.mergeSort" />
+      <item itemvalue="Application.LockTwo" />
+      <item itemvalue="Application.LockTwo1" />
+      <item itemvalue="JUnit.CounterLimiter.main" />
+      <item itemvalue="JUnit.LeakyBucketLimiter.main" />
+      <item itemvalue="JUnit.LockTwo.main" />
       <item itemvalue="Spring Boot.NacosApplication" />
       <item itemvalue="Spring Boot.NacosConsumerApplication" />
       <item itemvalue="Spring Boot.InterviewApplication" />
@@ -400,11 +421,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Sort.mergeSort" />
-        <item itemvalue="JUnit.Sort.quickSort" />
-        <item itemvalue="JUnit.Sort.bubbleSort" />
-        <item itemvalue="JUnit.Sort.sort" />
-        <item itemvalue="JUnit.Sort.heapSort" />
+        <item itemvalue="JUnit.LockTwo.main" />
+        <item itemvalue="Application.LockTwo1" />
+        <item itemvalue="Application.LockTwo" />
+        <item itemvalue="JUnit.LeakyBucketLimiter.main" />
+        <item itemvalue="JUnit.CounterLimiter.main" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +455,18 @@
       <workItem from="1557465161668" duration="4991000" />
       <workItem from="1557640677911" duration="373000" />
       <workItem from="1557713383803" duration="13307000" />
-      <workItem from="1557883809309" duration="3330000" />
+      <workItem from="1557883809309" duration="9188000" />
+      <workItem from="1558058862151" duration="3820000" />
+      <workItem from="1558334237302" duration="5361000" />
+      <workItem from="1558489289072" duration="4161000" />
+      <workItem from="1558507700183" duration="2369000" />
+      <workItem from="1558947529774" duration="445000" />
+      <workItem from="1559037053665" duration="4077000" />
+      <workItem from="1559201970320" duration="2298000" />
+      <workItem from="1559524311453" duration="2069000" />
+      <workItem from="1559531519669" duration="445000" />
+      <workItem from="1559632280746" duration="3429000" />
+      <workItem from="1560243858691" duration="3194000" />
     </task>
     <task id="LOCAL-00001" summary="pagehelper">
       <created>1556012150141</created>
@@ -506,43 +538,50 @@
       <option name="project" value="LOCAL" />
       <updated>1557741936373</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="信息">
+      <created>1557917711123</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557917711123</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Sort_quickSort - 2019.05.09 at 15h 37m 14s.xml">
-      <configuration name="Sort.quickSort" configurationId="JUnit" />
+    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 03m 50s.xml">
+      <configuration name="CounterLimiter.main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sort_quickSort - 2019.05.09 at 15h 37m 28s.xml">
-      <configuration name="Sort.quickSort" configurationId="JUnit" />
+    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 05m 25s.xml">
+      <configuration name="CounterLimiter.main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sort_quickSort - 2019.05.09 at 15h 38m 36s.xml">
-      <configuration name="Sort.quickSort" configurationId="JUnit" />
+    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 09m 18s.xml">
+      <configuration name="CounterLimiter.main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sort_quickSort - 2019.05.09 at 15h 39m 34s.xml">
-      <configuration name="Sort.quickSort" configurationId="JUnit" />
+    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 11m 24s.xml">
+      <configuration name="CounterLimiter.main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sort_quickSort - 2019.05.09 at 15h 45m 29s.xml">
-      <configuration name="Sort.quickSort" configurationId="JUnit" />
+    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 15m 09s.xml">
+      <configuration name="CounterLimiter.main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sort_quickSort - 2019.05.09 at 15h 46m 37s.xml">
-      <configuration name="Sort.quickSort" configurationId="JUnit" />
+    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 17m 00s.xml">
+      <configuration name="CounterLimiter.main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sort_quickSort - 2019.05.09 at 16h 09m 56s.xml">
-      <configuration name="Sort.quickSort" configurationId="JUnit" />
+    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 17m 35s.xml">
+      <configuration name="CounterLimiter.main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sort_quickSort - 2019.05.09 at 16h 26m 27s.xml">
-      <configuration name="Sort.quickSort" configurationId="JUnit" />
+    <history-entry file="LeakyBucketLimiter_main - 2019.05.16 at 10h 31m 23s.xml">
+      <configuration name="LeakyBucketLimiter.main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sort_quickSort - 2019.05.09 at 16h 32m 16s.xml">
-      <configuration name="Sort.quickSort" configurationId="JUnit" />
+    <history-entry file="LeakyBucketLimiter_main - 2019.05.16 at 10h 31m 57s.xml">
+      <configuration name="LeakyBucketLimiter.main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sort_mergeSort - 2019.05.09 at 16h 40m 56s.xml">
-      <configuration name="Sort.mergeSort" configurationId="JUnit" />
+    <history-entry file="LockTwo_main - 2019.05.21 at 09h 43m 13s.xml">
+      <configuration name="LockTwo.main" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289412000" />
+    <option name="totallyTimeSpent" value="326938000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -556,7 +595,7 @@
   <component name="ToolWindowManager">
     <frame x="-59" y="-877" width="1440" height="811" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.09486166" visible="true" weight="0.2160229" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.09486166" visible="true" weight="0.1874106" />
       <window_info id="Structure" order="1" sideWeight="0.9051383" side_tool="true" weight="0.20171674" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -566,16 +605,16 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.4394184" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.44819278" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.43810847" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.37552157" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.3299363" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" weight="0.28280255" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" weight="0.30700636" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143063" side_tool="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143063" side_tool="true" weight="0.32738853" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32635984" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32891566" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49928468" weight="0.3299363" />
@@ -635,6 +674,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -684,7 +726,8 @@
     <MESSAGE value="学习界面" />
     <MESSAGE value="学习排序算法，netty" />
     <MESSAGE value="文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="文件" />
+    <MESSAGE value="信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="信息" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -699,218 +742,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebsocketRedisApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/WebSocketEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/SocketController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketHeartBeatChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketSchedulingConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/TodoAtRemove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/EnableMemWebSocketManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/EnableRedisWebSocketManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-922" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/NettyApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/Closeable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/DataInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="148" column="10" selection-start-line="148" selection-start-column="10" selection-end-line="148" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/DataOutput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/ObjectStreamConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1205">
-          <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FilterReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FilterWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="77" column="27" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1265">
-          <caret line="48" column="49" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/OutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="67" column="42" lean-forward="true" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432">
-          <caret line="59" column="25" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/Writer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-649">
-          <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/BufferedOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/BufferedWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -954,60 +785,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A-doc/error.log" />
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/redis.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/mysql.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/start.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A-doc/项目docker/platform/Dockerfile" />
-    <entry file="file://$PROJECT_DIR$/A-doc/项目docker/platform/start.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1018,10 +800,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/doc/面试总结">
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/InterviewApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/one/内容">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limiter.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
+          <folding>
+            <element signature="e#49043#49044#0" expanded="true" />
+            <element signature="e#49082#49083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/LeakyBucketLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/CounterLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="53" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="240" column="30" lean-forward="true" selection-start-line="240" selection-start-column="30" selection-end-line="240" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/RateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/TokenBucketLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/doc/bais">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1032,24 +891,210 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/doc/bais">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/algorithm/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/ListBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/MapBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-988">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="152" column="16" selection-start-line="152" selection-start-column="16" selection-end-line="152" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/CallableAndFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Volatile1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/LockTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/doc/面试总结">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/nginx命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/docker命令（run）">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/docker命令（Dockerfile）">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/git命令">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/项目docker/platform/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/mysql.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/redis.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" lean-forward="true" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/Dockerfile(sentinel)">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/sentinel.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/nacos.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/mysql命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A-Learn/origin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="242" column="42" lean-forward="true" selection-start-line="242" selection-start-column="42" selection-end-line="242" selection-end-column="42" />
+        <state relative-caret-position="9630">
+          <caret line="642" column="49" selection-start-line="642" selection-start-column="49" selection-end-line="642" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2329" selection-start-line="2" selection-start-column="2325" selection-end-line="2" selection-end-column="2329" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="303" column="4" lean-forward="true" selection-start-line="303" selection-start-column="4" selection-end-line="303" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="608" column="21" selection-start-line="608" selection-start-column="21" selection-end-line="608" selection-end-column="21" />
+        <state relative-caret-position="323">
+          <caret line="275" column="54" lean-forward="true" selection-start-line="275" selection-start-column="54" selection-end-line="275" selection-end-column="54" />
         </state>
       </provider>
     </entry>

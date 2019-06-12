@@ -1,4 +1,4 @@
-package com.zsj.javaversion.Algorithm;
+package com.zsj.javaversion.algorithm;
 
 import org.junit.Test;
 

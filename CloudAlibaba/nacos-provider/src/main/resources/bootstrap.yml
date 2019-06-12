@@ -11,7 +11,7 @@ spring:
         server-addr: nacos.zhaosj.cn
     sentinel:
       transport:
-        dashboard: 120.79.4.13:8849
+        dashboard: sentinel.zhaosj.cn
         port: 8719
   profiles:
     active: provider

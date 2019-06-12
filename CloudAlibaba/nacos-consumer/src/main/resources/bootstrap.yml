@@ -16,6 +16,6 @@ spring:
     sentinel:
       transport:
         port: 8719  # 端口配置会在应用对应的机器上启动一个 Http Server，该 Server 会与 Sentinel 控制台做交互。
-        dashboard: 120.79.4.13:8849
+        dashboard: sentinel.zhaosj.cn
   profiles:
     active: consumer

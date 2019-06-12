@@ -26,6 +26,9 @@ public class lockOne {
 
     private ReentrantLock lock = new ReentrantLock(true);
 
+    /**
+     *
+     */
     private ReentrantReadWriteLock readWriteLock = new ReentrantReadWriteLock(true);
 
     //非公平锁
