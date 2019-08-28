@@ -46,3 +46,13 @@ on-failure：容器故障退出（返回值非零）时重启
 always：容器退出时总是重启
 --rm=false， 指定容器停止后自动删除容器(不支持以docker run -d启动的容器)
 --sig-proxy=true， 设置由代理接受并处理信号，但是SIGCHLD、SIGSTOP和SIGKILL不能被代理
+
+
+
+docker cp /Users/howey/Documents/apache-maven-3.5.2/ 749056ea1637:/opt
+
+  docker cp 本地路径 容器Id或name:容器目录
+
+docker cp 749056ea1637:/Users/howey/Documents/apache-maven-3.5.2 /opt/
+
+  docker cp 容器Id:本地路径 镜像路径
