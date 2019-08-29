@@ -13,3 +13,12 @@ https://mp.weixin.qq.com/s/YwXumkQ3io1zmM4yv7I6Kg
 
 实现扫码登陆的最简单方案与原理
 https://mp.weixin.qq.com/s/Lmo2cEvrVTzQ-GpC-s0R6Q
+
+面试经历
+https://mp.weixin.qq.com/s/TFUGWQn0BaQPLDRgYIzjAA
+
+Arrays.sort() 采用了2种排序算法 -- 基本类型数据使用快速排序法，对象数组使用归并排序。
+
+java的Collections.sort算法调用的是合并排序，它是稳定排序，当数据接近有序的时候，效率更高，
+   collections中的数据在排序前需要输入到array中，接着调用Arrays.sort函数来完成对象排序，
+   最近通过迭代器将数组中排好序的对象些人到collection中，这也要求collection必须为mutable类型的。

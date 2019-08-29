@@ -40,6 +40,7 @@ public class RedisWebSocketManager extends MemWebSocketManager {
         super.put(identifier, webSocket);
         //在线数量加1
         countChange(1);
+
     }
 
     @Override

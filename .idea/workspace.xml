@@ -2,24 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3ef059-e0e7-438b-b35c-4363a57dd684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A-doc/docker配置文件/data/nacos.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A-doc/docker配置文件/data/sentinel.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A-doc/mysql命令" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/CounterLimiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/LeakyBucketLimiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/RateLimiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/TokenBucketLimiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/LockTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/config/ESConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/restclient/ESUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/test/java/com/zsj/nacos/down.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-Learn/css/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/css/page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-Learn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/docker配置文件/data/Dockerfile(sentinel)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/interview/doc/bais" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/interview/doc/bais" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basic/interview/doc/面试总结" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/interview/doc/面试总结" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/Algorithm/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/algorithm/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/NacosProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/NacosProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CloudAlibaba/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,10 +69,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
+        <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="275" column="54" lean-forward="true" selection-start-line="275" selection-start-column="54" selection-end-line="275" selection-end-column="54" />
+            <state relative-caret-position="-48">
+              <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -86,8 +82,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -107,6 +103,11 @@
       <find>live</find>
       <find>no-logo</find>
       <find>item</find>
+      <find>defaultType</find>
+      <find>mapping</find>
+      <find>CreateIndexRequest</find>
+      <find>pipeline</find>
+      <find>type</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -115,57 +116,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/action/SendMessageAction.java" />
-        <option value="$PROJECT_DIR$/A-dockerfiles/nginx命令" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/lock/lockOne.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/one/内容" />
-        <option value="$PROJECT_DIR$/A-tool/JavaTools" />
-        <option value="$PROJECT_DIR$/A-tool/web.html" />
-        <option value="$PROJECT_DIR$/A-Learn/nginx.conf" />
-        <option value="$PROJECT_DIR$/A-Learn/default.conf" />
-        <option value="$PROJECT_DIR$/A-Learn/test.html" />
-        <option value="$PROJECT_DIR$/A-Learn/js/click.js" />
-        <option value="$PROJECT_DIR$/A-Learn/origin.html" />
-        <option value="$PROJECT_DIR$/A-doc/git命令" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/user.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/MapBasic.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/doc/高频面试" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/JavaversionApplication.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/Algorithm/Sort.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Executor1.java" />
-        <option value="$PROJECT_DIR$/Socket/pom.xml" />
-        <option value="$PROJECT_DIR$/Socket/netty/pom.xml" />
-        <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/utils/WriteUtils.java" />
-        <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/utils/InpitUtils.java" />
-        <option value="$PROJECT_DIR$/A-doc/default.conf" />
-        <option value="$PROJECT_DIR$/A-doc/start.sh" />
-        <option value="$PROJECT_DIR$/A-doc/nginx.conf" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/mysql/start.sh" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/mysql.sh" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/redis.sh" />
-        <option value="$PROJECT_DIR$/A-doc/项目docker/platform/start.sh" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/my.cnf" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/algorithm/Sort.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/ConcurrentLimit.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/CounterLimiter.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/RateLimiter.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/CounterLimiter.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/LeakyBucketLimiter.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/TokenBucketLimiter.java" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java" />
         <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/LockTwo.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/doc/面试总结" />
         <option value="$PROJECT_DIR$/A-doc/Dockerfile" />
         <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/Dockerfile" />
         <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/nacos.sh" />
         <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/sentinel.sh" />
         <option value="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/A-doc/mysql命令" />
         <option value="$PROJECT_DIR$/A-Learn/css/page.css" />
         <option value="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/dao/Item.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/NacosProviderApplication.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/config/ESConfig.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/ElasticsearchUtil.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/ESUtils.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/dto/Item.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/dto.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/repository/esUserRepository.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/User.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/my.cnf" />
+        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/doc/面试总结" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/Item.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/restclient/ESUtils.java" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/kibana.yml" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/kibana.sh" />
+        <option value="$PROJECT_DIR$/Basic/interview/doc/bais" />
+        <option value="$PROJECT_DIR$/A-doc/项目docker/deploy.sh" />
+        <option value="$PROJECT_DIR$/A-doc/项目docker/catalina.sh" />
+        <option value="$PROJECT_DIR$/A-doc/项目docker/es.sh" />
+        <option value="$PROJECT_DIR$/A-doc/项目docker/kibana.sh" />
+        <option value="$PROJECT_DIR$/A-doc/项目docker/kibana.example.org.crt" />
+        <option value="$PROJECT_DIR$/A-doc/项目docker/kibana.example.org.key" />
+        <option value="$PROJECT_DIR$/A-doc/项目docker/kibana.yml" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/es.sh" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/newes.sh" />
+        <option value="$PROJECT_DIR$/A-doc/linux命令" />
+        <option value="$PROJECT_DIR$/A-doc/docker命令（run）" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/config/ESConfig.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/StrUtils.java" />
         <option value="$PROJECT_DIR$/A-Learn/index.html" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Demo.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/test.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/test/java/com/zsj/nacos/Down.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/test/java/com/zsj/nacos/DownloadUtils.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/test/java/com/zsj/nacos/down.java" />
+        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java" />
       </list>
     </option>
   </component>
@@ -178,7 +179,12 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="nacos-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -204,8 +210,74 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="CloudAlibaba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="CloudAlibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="CloudAlibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="CloudAlibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="CloudAlibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="CloudAlibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="CloudAlibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -246,14 +318,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560305723192" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567050434966" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="jprofiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -288,13 +360,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LockTwo.main">
-    <configuration name="LockTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.lock.LockTwo" />
-      <module name="javaversion" />
+  <component name="RunManager" selected="Application.down">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsj.interview.leetCode.Demo" />
+      <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.lock.*" />
+          <option name="PATTERN" value="com.zsj.interview.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +374,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LockTwo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.lock.LockTwo1" />
-      <module name="javaversion" />
+    <configuration name="StrUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsj.interview.leetCode.StrUtils" />
+      <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.lock.*" />
+          <option name="PATTERN" value="com.zsj.interview.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,49 +387,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CounterLimiter.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaversion" />
+    <configuration name="down" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsj.nacos.down" />
+      <module name="nacos-provider" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.limit.*" />
+          <option name="PATTERN" value="com.zsj.nacos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion.limit" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.limit.CounterLimiter" />
-      <option name="METHOD_NAME" value="main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrUtils.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zsj.interview.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zsj.interview.leetCode" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.interview.leetCode.StrUtils" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeakyBucketLimiter.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaversion" />
+    <configuration name="StrUtils.testNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.limit.*" />
+          <option name="PATTERN" value="com.zsj.interview.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion.limit" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.limit.LeakyBucketLimiter" />
-      <option name="METHOD_NAME" value="main" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LockTwo.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaversion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.lock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion.lock" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.lock.LockTwo" />
-      <option name="METHOD_NAME" value="main" />
+      <option name="PACKAGE_NAME" value="com.zsj.interview.leetCode" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.interview.leetCode.StrUtils" />
+      <option name="METHOD_NAME" value="testNum" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -407,11 +476,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LockTwo" />
-      <item itemvalue="Application.LockTwo1" />
-      <item itemvalue="JUnit.CounterLimiter.main" />
-      <item itemvalue="JUnit.LeakyBucketLimiter.main" />
-      <item itemvalue="JUnit.LockTwo.main" />
+      <item itemvalue="Application.StrUtils" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.down" />
+      <item itemvalue="JUnit.StrUtils.test" />
+      <item itemvalue="JUnit.StrUtils.testNum" />
       <item itemvalue="Spring Boot.NacosApplication" />
       <item itemvalue="Spring Boot.NacosConsumerApplication" />
       <item itemvalue="Spring Boot.InterviewApplication" />
@@ -421,11 +490,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LockTwo.main" />
-        <item itemvalue="Application.LockTwo1" />
-        <item itemvalue="Application.LockTwo" />
-        <item itemvalue="JUnit.LeakyBucketLimiter.main" />
-        <item itemvalue="JUnit.CounterLimiter.main" />
+        <item itemvalue="Application.down" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="JUnit.StrUtils.testNum" />
+        <item itemvalue="JUnit.StrUtils.test" />
+        <item itemvalue="Application.StrUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +535,22 @@
       <workItem from="1559524311453" duration="2069000" />
       <workItem from="1559531519669" duration="445000" />
       <workItem from="1559632280746" duration="3429000" />
-      <workItem from="1560243858691" duration="3194000" />
+      <workItem from="1560243858691" duration="3283000" />
+      <workItem from="1560309306455" duration="10568000" />
+      <workItem from="1560672497686" duration="20899000" />
+      <workItem from="1560820335664" duration="32498000" />
+      <workItem from="1560938064651" duration="26227000" />
+      <workItem from="1561080265788" duration="12188000" />
+      <workItem from="1561110755485" duration="213000" />
+      <workItem from="1561111020203" duration="359000" />
+      <workItem from="1561177796922" duration="6972000" />
+      <workItem from="1561689623184" duration="1197000" />
+      <workItem from="1561944848384" duration="22108000" />
+      <workItem from="1563330496095" duration="4194000" />
+      <workItem from="1563779220364" duration="9611000" />
+      <workItem from="1564363717321" duration="13307000" />
+      <workItem from="1566265283889" duration="9966000" />
+      <workItem from="1567045025654" duration="2308000" />
     </task>
     <task id="LOCAL-00001" summary="pagehelper">
       <created>1556012150141</created>
@@ -545,43 +629,57 @@
       <option name="project" value="LOCAL" />
       <updated>1557917711123</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="更新部分信息">
+      <created>1560305781778</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1560305781778</updated>
+    </task>
+    <task id="LOCAL-00013" summary="更新部分信息">
+      <created>1566971464708</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1566971464708</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 03m 50s.xml">
-      <configuration name="CounterLimiter.main" configurationId="JUnit" />
+    <history-entry file="StrUtils_test - 2019.07.23 at 17h 43m 25s.xml">
+      <configuration name="StrUtils.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 05m 25s.xml">
-      <configuration name="CounterLimiter.main" configurationId="JUnit" />
+    <history-entry file="StrUtils_test - 2019.07.23 at 17h 46m 16s.xml">
+      <configuration name="StrUtils.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 09m 18s.xml">
-      <configuration name="CounterLimiter.main" configurationId="JUnit" />
+    <history-entry file="StrUtils_test - 2019.07.23 at 17h 53m 38s.xml">
+      <configuration name="StrUtils.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 11m 24s.xml">
-      <configuration name="CounterLimiter.main" configurationId="JUnit" />
+    <history-entry file="StrUtils_test - 2019.07.23 at 17h 55m 53s.xml">
+      <configuration name="StrUtils.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 15m 09s.xml">
-      <configuration name="CounterLimiter.main" configurationId="JUnit" />
+    <history-entry file="StrUtils_test - 2019.07.23 at 17h 56m 46s.xml">
+      <configuration name="StrUtils.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 17m 00s.xml">
-      <configuration name="CounterLimiter.main" configurationId="JUnit" />
+    <history-entry file="StrUtils_testNum - 2019.08.08 at 12h 01m 13s.xml">
+      <configuration name="StrUtils.testNum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CounterLimiter_main - 2019.05.16 at 10h 17m 35s.xml">
-      <configuration name="CounterLimiter.main" configurationId="JUnit" />
+    <history-entry file="StrUtils_testNum - 2019.08.08 at 12h 08m 39s.xml">
+      <configuration name="StrUtils.testNum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeakyBucketLimiter_main - 2019.05.16 at 10h 31m 23s.xml">
-      <configuration name="LeakyBucketLimiter.main" configurationId="JUnit" />
+    <history-entry file="StrUtils_testNum - 2019.08.08 at 12h 09m 20s.xml">
+      <configuration name="StrUtils.testNum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeakyBucketLimiter_main - 2019.05.16 at 10h 31m 57s.xml">
-      <configuration name="LeakyBucketLimiter.main" configurationId="JUnit" />
+    <history-entry file="StrUtils_testNum - 2019.08.08 at 12h 11m 39s.xml">
+      <configuration name="StrUtils.testNum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LockTwo_main - 2019.05.21 at 09h 43m 13s.xml">
-      <configuration name="LockTwo.main" configurationId="JUnit" />
+    <history-entry file="StrUtils_testNum - 2019.08.08 at 12h 12m 13s.xml">
+      <configuration name="StrUtils.testNum" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="326938000" />
+    <option name="totallyTimeSpent" value="499642000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -594,8 +692,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-59" y="-877" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.09486166" visible="true" weight="0.1874106" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.09486166" visible="true" weight="0.19098713" />
       <window_info id="Structure" order="1" sideWeight="0.9051383" side_tool="true" weight="0.20171674" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -605,35 +704,36 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.43810847" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.37552157" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.30180806" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.42698193" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.3299363" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32962447" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" weight="0.30700636" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" weight="0.35465926" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143063" side_tool="true" weight="0.32738853" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32635984" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34353268" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50214595" side_tool="true" weight="0.47705147" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32545203" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32891566" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49928468" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32823366" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="16" weight="0.32914925" />
+      <window_info anchor="bottom" id="JProfiler" order="17" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.32904148" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.4048641" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.25822604" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.09486166" visible="true" weight="0.21316166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.09486166" visible="true" weight="0.23819743" />
       <window_info id="Structure" order="1" sideWeight="0.9051383" side_tool="true" weight="0.20171674" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -643,21 +743,22 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.4394184" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.44819278" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.43694267" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.2976356" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.3299363" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32962447" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" weight="0.28433734" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" weight="0.355414" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143063" side_tool="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32635984" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34353268" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50214595" side_tool="true" weight="0.477707" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32545203" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32891566" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49928468" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32823366" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="16" weight="0.32914925" />
+      <window_info anchor="bottom" id="JProfiler" order="17" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -665,7 +766,7 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.32904148" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.4048641" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.25822604" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" />
@@ -727,7 +828,8 @@
     <MESSAGE value="学习排序算法，netty" />
     <MESSAGE value="文件" />
     <MESSAGE value="信息" />
-    <option name="LAST_COMMIT_MESSAGE" value="信息" />
+    <MESSAGE value="更新部分信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新部分信息" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -741,160 +843,261 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/BufferedWriter.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        <state relative-caret-position="3555">
+          <caret line="274" column="14" selection-start-line="274" selection-start-column="14" selection-end-line="274" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/ByteArrayInputStream.java">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/config/ESConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE.jar!/org/springframework/util/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="18" />
-          <folding>
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1103#1104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/utils/InpitUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        <state relative-caret-position="-663">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/BufferedInputStream.java">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/mapper/UserDao.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/mapper/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        <state relative-caret-position="75">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/error.log" />
-    <entry file="file://$PROJECT_DIR$/A-doc/项目docker/platform/Dockerfile" />
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/nginx.conf">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/server/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/NacosProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="648" column="32" selection-start-line="648" selection-start-column="32" selection-end-line="648" selection-end-column="32" />
+          <folding>
+            <element signature="n#div#0;n#a#8;n#div#1;n#div#4;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/test/java/com/zsj/nacos/NacosApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/test/java/com/zsj/nacos/DownloadUtils.java" />
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/test/java/com/zsj/nacos/down.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pic1.jpg" />
+    <entry file="file://$PROJECT_DIR$/A-doc/linux命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/controller/NacosClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/NacosConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/doc/springcloud alibaba">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/api/impl/ApiBusinessImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/api/ApiBusiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/Item.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/my.cnf">
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="162">
+          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/InterviewApplication.java">
+    <entry file="file://$PROJECT_DIR$/Basic/interview/doc/bais">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/doc/高频面试">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/StrUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/JavaversionApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/doc/面试总结">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/NettyApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/InterviewApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/one/内容">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limiter.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
-          <folding>
-            <element signature="e#49043#49044#0" expanded="true" />
-            <element signature="e#49082#49083#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/LeakyBucketLimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/CounterLimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="53" column="9" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="53" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="240" column="30" lean-forward="true" selection-start-line="240" selection-start-column="30" selection-end-line="240" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/RateLimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/TokenBucketLimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/doc/bais">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/doc/高频面试">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="-138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/algorithm/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        <state relative-caret-position="-6468">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -907,8 +1110,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/MapBasic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-988">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -919,182 +1122,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/Default1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="152" column="16" selection-start-line="152" selection-start-column="16" selection-end-line="152" selection-end-column="16" />
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/CallableAndFuture.java">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/lambda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Volatile1.java">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/Default2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/LockTwo.java">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/testDefault.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/StreamTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        <state relative-caret-position="-33">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/doc/面试总结">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/FunctionalInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="90">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/nginx命令">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/RateLimiter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker命令（run）">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker命令（Dockerfile）">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/git命令">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/项目docker/platform/start.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/mysql.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/redis.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" lean-forward="true" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/Dockerfile(sentinel)">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/sentinel.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/nacos.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="390">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="540">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/mysql命令">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        <state relative-caret-position="600">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/config/DruidConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="570">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/origin.html">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9630">
-          <caret line="642" column="49" selection-start-line="642" selection-start-column="49" selection-end-line="642" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/css/page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="2329" selection-start-line="2" selection-start-column="2325" selection-end-line="2" selection-end-column="2329" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/start.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="303" column="4" lean-forward="true" selection-start-line="303" selection-start-column="4" selection-end-line="303" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="275" column="54" lean-forward="true" selection-start-line="275" selection-start-column="54" selection-end-line="275" selection-end-column="54" />
+        <state relative-caret-position="-48">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
         </state>
       </provider>
     </entry>

@@ -25,26 +25,44 @@
 
     <dependencies>
         <!-- sentinel -->
-        <dependency>
+       <!-- <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-sentinel</artifactId>
             <version>0.2.0.RELEASE</version>
-        </dependency>
+        </dependency>-->
 
         <!-- nacos 配置管理-->
-        <dependency>
+        <!--<dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
             <version>${latest.version}</version>
-        </dependency>
+            <exclusions>
+                <exclusion>
+                    <artifactId>fastjson</artifactId>
+                    <groupId>com.alibaba</groupId>
+                </exclusion>
+            </exclusions>
+        </dependency>-->
         <!-- nacos 注册发现-->
-        <dependency>
+       <!--<dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
             <version>${latest.version}</version>
-        </dependency>
-
-
+           <exclusions>
+               <exclusion>
+                   <artifactId>servo-core</artifactId>
+                   <groupId>com.netflix.servo</groupId>
+               </exclusion>
+               <exclusion>
+                   <artifactId>guava</artifactId>
+                   <groupId>com.google.guava</groupId>
+               </exclusion>
+               <exclusion>
+                   <artifactId>archaius-core</artifactId>
+                   <groupId>com.netflix.archaius</groupId>
+               </exclusion>
+           </exclusions>
+       </dependency>-->
 
     </dependencies>
 
