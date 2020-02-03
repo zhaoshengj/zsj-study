@@ -16,6 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Alibaba" target="1.8" />
+      <module name="CloudAlibaba" target="1.8" />
       <module name="nacos-provider-1" target="1.8" />
     </bytecodeTargetLevel>
   </component>

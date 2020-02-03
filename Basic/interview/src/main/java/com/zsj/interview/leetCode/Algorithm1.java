@@ -4,6 +4,9 @@ import org.junit.Test;
 
 import java.util.HashMap;
 
+/**
+ * 5\10\20 元钱
+ */
 public class Algorithm1 {
 
     public boolean lemonadeChange(int[] bills) {
@@ -43,12 +46,69 @@ public class Algorithm1 {
         return true;
     }
 
+    /**
+     * 799. 香槟塔
+     */
+    public static double champagneTower(int poured, int query_row, int query_glass) {
+        int size = query_row;
+        int num = 0;
+        while (size > 0){
+            num += size;
+            size --;
+        }
+        if(num - poured  < query_row){
+            return 0.0;
+        }else if(num <= poured){
+            return 1.0;
+        }else {
+            double i = (poured -num+ query_row) / (2 * (query_row - 1));
+            if(query_glass == 0 || query_glass == query_row){
+                return i;
+            }else {
+                return i*2;
+            }
+        }
+    }
+
     @Test
     public void run(){
         Long start = System.currentTimeMillis();
         int[] bills = {5,5,10,10,20};
         boolean b = lemonadeChange(bills);
         System.out.println(b);
-        System.out.println(System.currentTimeMillis() - start);
+
+        double v = champagneTower(2, 2, 1);
+        System.out.println(v);
+    }
+
+
+    class A{
+        String name;
+
+        public String getName() {
+            return name;
+        }
+
+        public void setName(String name) {
+            this.name = name;
+        }
+    }
+
+    @Test
+    public void te(){
+
+        A a = new A();
+        a.setName("test");
+
+        A b = a;
+
+        b.setName("csd");
+
+        System.out.println(a);
+
+        System.out.println(b);
+
+        System.out.println(a.name);
+
     }
 }

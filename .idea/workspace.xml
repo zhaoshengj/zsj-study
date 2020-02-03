@@ -1,19 +1,693 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a3ef059-e0e7-438b-b35c-4363a57dd684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A-Learn/free_vip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A-doc/fastbuy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/test/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/interview/src/test/java/com/zsj/interview/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/test/java/com/zsj/javaversion/test.java" afterDir="false" />
+    <list default="true" id="4a3ef059-e0e7-438b-b35c-4363a57dd684" name="Default Changelist" comment="更新部分信息">
+      <change afterPath="$PROJECT_DIR$/A-Learn/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-Learn/st.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/docker配置文件/nginx/cloud.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/css/font-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/css/font-icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/js/canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-nexmoe-master/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/dynamic.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/js/common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/bg-blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/bg-brown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/bg-grey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/bg-transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/bgs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/paint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/side-tool.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/css/_bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/category.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/images/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/images/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/images/side-bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/TweenMax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/TweenMax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/circleMagic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/circleMagic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/macro-header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/images/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/js/common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/macro-header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/images/author-header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/images/indentline-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/images/indentline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/category.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/fonts/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/dynamic.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/images/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/images/next.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/images/preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/js/Finding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/js/Finding.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/categories.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/fonts/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/js/common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/bottom.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/bottom2.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/js/common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/nav.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/images/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/js/NeoEase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/js/NeoEase.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/css/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/images/ico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/js/common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/js/headroom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/js/headroom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/Guestbook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/ads.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/anelli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/antefatto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/archivio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/box.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/categorie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/category.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/classifiche.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/comment.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/comment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/commentpoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/cont-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/cont-bg_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/corner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/cuore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/esclamativo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/footer-ico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/pl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/roundbottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/roundtop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/tagsIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/textfield.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/thinks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/top-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/nav.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/statistic.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/box.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/comment.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/commentpoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/light.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/main_shadow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/menu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/sidebar_shadow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/sidesep.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/textfield.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/widgetsep.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/category.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/copyright.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/font/IcoMoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/font/IcoMoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/font/IcoMoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/font/IcoMoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/dynamic.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/images/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/js/metro-hot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/js/metro-hot.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/macro-side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/fonts/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/dynamic.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/js/next.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/js/next.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/fonts/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/dynamic.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/cursor.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/pointer.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/js/common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/comment.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/commentpoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/hd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/textfield.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/dynamic.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/images/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/images/nav-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/js/timeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/js/timeline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/balloons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-branch-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-branch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-comments-body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-comments-bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-comments-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-comments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-footer2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-heading-about-us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-heading-categories.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-heading-portfolio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-heading-resources.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-heading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-menu-active-tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-menu-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/archive-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/archives.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/article-list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/article.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/author-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/category-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/common-comment.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/fonts/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/dynamic.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/footer.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/js/yilia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/js/yilia.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/lang/lang_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/lang/lang_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/links.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/macro-comments.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/side.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/skin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/tag-articles.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/tags.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/ArrayAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/LinkListAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/StringAlorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/proxy/DynamicProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/LNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/NodeReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLeaen/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLeaen/Study.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/study/thread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/ReenTrantLockLearn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A-Learn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-Learn/origin.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/origin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-doc/docker配置文件/data/nacos.sh" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/docker配置文件/data/nacos.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/test/java/com/zsj/javaversion/JavaversionApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/test/java/com/zsj/javaversion/JavaversionApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-doc/docker配置文件/nginx/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/docker配置文件/nginx/start.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-doc/git命令" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/git命令" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/interview/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/interview/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Executor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Executor1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/doc/springcloud alibaba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/NacosConsumerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/config/RestTemplateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/controller/ConsumerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/controller/NacosClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/test/java/com/zsj/nacosconsumer/NacosConsumerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/config/ESConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/restclient/ESUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/NacosProviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/api/ApiBusiness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/api/impl/ApiBusinessImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/config/DruidConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/mapper/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/mapper/UserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/server/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/test/java/com/zsj/nacos/NacosApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/test/java/com/zsj/nacos/down.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudAlibaba/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,58 +742,83 @@
     <session id="-1000943230">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.closed" value="35" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="15" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="11" />
-          <entry key="yml" value="1" />
+          <entry key="ReentrantLock" value="2" />
+          <entry key="class" value="19" />
+          <entry key="conf" value="22" />
+          <entry key="crt" value="1" />
+          <entry key="docker命令（Dockerfile）" value="1" />
+          <entry key="docker命令（build篇）" value="1" />
+          <entry key="docker命令（run）" value="1" />
+          <entry key="git命令" value="5" />
+          <entry key="html" value="24" />
+          <entry key="ico" value="11" />
+          <entry key="java" value="235" />
+          <entry key="jpeg" value="1" />
+          <entry key="jpg" value="2" />
+          <entry key="log" value="2" />
+          <entry key="png" value="3" />
+          <entry key="py" value="2" />
+          <entry key="sh" value="14" />
+          <entry key="springcloud alibaba" value="1" />
+          <entry key="xml" value="13" />
+          <entry key="yml" value="3" />
+          <entry key="内容" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="11" />
-          <entry key="YAML" value="1" />
+          <entry key="CLASS" value="19" />
+          <entry key="HTML" value="24" />
+          <entry key="Image" value="17" />
+          <entry key="JAVA" value="235" />
+          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="UML" value="2" />
+          <entry key="XML" value="13" />
+          <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="160" />
+          <entry key="conf" value="293" />
+          <entry key="dummy" value="10" />
+          <entry key="git命令" value="53" />
+          <entry key="html" value="305" />
+          <entry key="java" value="10507" />
+          <entry key="py" value="17" />
+          <entry key="sh" value="20" />
+          <entry key="xml" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="160" />
+          <entry key="HTML" value="305" />
+          <entry key="JAVA" value="10507" />
+          <entry key="PLAIN_TEXT" value="393" />
+          <entry key="XML" value="45" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpringCloud" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A-Learn/free_vip.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -134,7 +833,6 @@
     <findStrings>
       <find>ServletRegistrationBean</find>
       <find>ServerEndpointExporter</find>
-      <find>state</find>
       <find>icon-tubiaozhizuomobanyihuifu</find>
       <find>sill</find>
       <find>server</find>
@@ -150,6 +848,10 @@
       <find>CreateIndexRequest</find>
       <find>pipeline</find>
       <find>type</find>
+      <find>concu</find>
+      <find>vola</find>
+      <find>priority</find>
+      <find>state</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,39 +860,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/dao/Item.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/pom.xml" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/NacosProviderApplication.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/config/ESConfig.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/ElasticsearchUtil.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/ESUtils.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/dto/Item.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/dto.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/repository/esUserRepository.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/User.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/repository/UserRepository.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/my.cnf" />
-        <option value="$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/redis/RedisWebSocketManager.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/doc/面试总结" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/Item.java" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/restclient/ESUtils.java" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/kibana.yml" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/kibana.sh" />
-        <option value="$PROJECT_DIR$/Basic/interview/doc/bais" />
-        <option value="$PROJECT_DIR$/A-doc/项目docker/deploy.sh" />
-        <option value="$PROJECT_DIR$/A-doc/项目docker/catalina.sh" />
-        <option value="$PROJECT_DIR$/A-doc/项目docker/es.sh" />
-        <option value="$PROJECT_DIR$/A-doc/项目docker/kibana.sh" />
-        <option value="$PROJECT_DIR$/A-doc/项目docker/kibana.example.org.crt" />
-        <option value="$PROJECT_DIR$/A-doc/项目docker/kibana.example.org.key" />
-        <option value="$PROJECT_DIR$/A-doc/项目docker/kibana.yml" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/es.sh" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/newes.sh" />
-        <option value="$PROJECT_DIR$/A-doc/linux命令" />
-        <option value="$PROJECT_DIR$/A-doc/docker命令（run）" />
-        <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/config/ESConfig.java" />
         <option value="$PROJECT_DIR$/CloudAlibaba/nacos-provider/pom.xml" />
         <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/StrUtils.java" />
         <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Demo.java" />
@@ -204,11 +873,44 @@
         <option value="$PROJECT_DIR$/Basic/interview/src/test/java/com/zsj/interview/Test.java" />
         <option value="$PROJECT_DIR$/A-doc/fastbuy.py" />
         <option value="$PROJECT_DIR$/A-doc/项目docker/solo.sh" />
-        <option value="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" />
         <option value="$PROJECT_DIR$/Basic/javaversion/src/test/java/com/zsj/javaversion/test.java" />
         <option value="$PROJECT_DIR$/A-Learn/free_vip.html" />
         <option value="$PROJECT_DIR$/A-Learn/origin.html" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm2.java" />
+        <option value="$PROJECT_DIR$/Basic/pom.xml" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/BaseAlgorithm.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/ArrayAlgorithm.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/StringAlorithm.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/proxy/DynamicProxyTest.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Executor1.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/InterviewApplication.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm1.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/LinkListAlgo.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/suanfa/Node.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/Node.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/ListNode.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/Node.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/NodeReversc.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/LNode.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/thread/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/NodeReverse.java" />
+        <option value="$PROJECT_DIR$/A-Learn/env.py" />
+        <option value="$PROJECT_DIR$/A-doc/default.conf" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/User.java" />
+        <option value="$PROJECT_DIR$/A-Learn/st.sh" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/nginx/alibaba.conf" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/data/nacos.sh" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/nginx/start.sh" />
         <option value="$PROJECT_DIR$/A-Learn/index.html" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf" />
+        <option value="$PROJECT_DIR$/A-doc/git命令" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/nginx/nginx.conf" />
+        <option value="$PROJECT_DIR$/A-doc/docker配置文件/nginx/cloud.conf" />
+        <option value="$PROJECT_DIR$/Basic/interview/pom.xml" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLeaen/Study.java" />
+        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLeaen/Demo.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/ReenTrantLockLearn.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -234,11 +936,10 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-59" />
-    <option name="y" value="-900" />
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="722" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -258,11 +959,6 @@
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="A-Learn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -310,7 +1006,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572503729649" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578152074509" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -318,7 +1014,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -353,13 +1049,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.test.main">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test" />
+  <component name="RunManager" selected="Application.ReenTrantLockLearn">
+    <configuration name="ReenTrantLockLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.lock.ReenTrantLockLearn" />
+      <module name="javaversion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zsj.javaversion.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Study" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.SynchronizedLeaen.Study" />
       <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="study.SynchronizedLeaen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,62 +1076,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.test" />
-      <module name="javaversion" />
+    <configuration name="Algorithm1.te" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.*" />
+          <option name="PATTERN" value="com.zsj.interview.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaversion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.test" />
-      <option name="METHOD_NAME" value="main" />
+      <option name="PACKAGE_NAME" value="com.zsj.interview.leetCode" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.interview.leetCode.Algorithm1" />
+      <option name="METHOD_NAME" value="te" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.main1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaversion" />
+    <configuration name="LinkListAlgo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.*" />
+          <option name="PATTERN" value="com.zsj.interview.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.test" />
-      <option name="METHOD_NAME" value="main1" />
+      <option name="PACKAGE_NAME" value="com.zsj.interview.leetCode" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.interview.leetCode.LinkListAlgo" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.main2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaversion" />
+    <configuration name="NodeReverse.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.javaversion.*" />
+          <option name="PATTERN" value="study.LinkList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zsj.javaversion" />
-      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.test" />
-      <option name="METHOD_NAME" value="main2" />
+      <option name="PACKAGE_NAME" value="study.LinkList" />
+      <option name="MAIN_CLASS_NAME" value="study.LinkList.NodeReverse" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -478,19 +1174,19 @@
       <item itemvalue="Spring Boot.JavaversionApplication" />
       <item itemvalue="Spring Boot.WebsocketRedisApplication" />
       <item itemvalue="Spring Boot.NettyApplication" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.test (1)" />
-      <item itemvalue="JUnit.test.main" />
-      <item itemvalue="JUnit.test.main1" />
-      <item itemvalue="JUnit.test.main2" />
+      <item itemvalue="JUnit.LinkListAlgo.test" />
+      <item itemvalue="JUnit.Algorithm1.te" />
+      <item itemvalue="JUnit.NodeReverse.test" />
+      <item itemvalue="Application.Study" />
+      <item itemvalue="Application.ReenTrantLockLearn" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.test.main" />
-        <item itemvalue="JUnit.test.main2" />
-        <item itemvalue="Application.test (1)" />
-        <item itemvalue="JUnit.test.main1" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ReenTrantLockLearn" />
+        <item itemvalue="Application.Study" />
+        <item itemvalue="JUnit.NodeReverse.test" />
+        <item itemvalue="JUnit.LinkListAlgo.test" />
+        <item itemvalue="JUnit.Algorithm1.te" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +1272,36 @@
       <workItem from="1571294364636" duration="15000" />
       <workItem from="1571294486149" duration="7000" />
       <workItem from="1572227341639" duration="621000" />
-      <workItem from="1572501191412" duration="1539000" />
+      <workItem from="1572501191412" duration="6161000" />
+      <workItem from="1572514026612" duration="12277000" />
+      <workItem from="1573118893348" duration="3507000" />
+      <workItem from="1573447941717" duration="4766000" />
+      <workItem from="1573462749690" duration="17469000" />
+      <workItem from="1573796726246" duration="39690000" />
+      <workItem from="1574404757827" duration="11707000" />
+      <workItem from="1574931719525" duration="1295000" />
+      <workItem from="1575365737384" duration="1361000" />
+      <workItem from="1575451170433" duration="8740000" />
+      <workItem from="1575855510427" duration="1139000" />
+      <workItem from="1576476555368" duration="13681000" />
+      <workItem from="1576633965173" duration="2454000" />
+      <workItem from="1576732068337" duration="1664000" />
+      <workItem from="1576824541848" duration="1057000" />
+      <workItem from="1576895314562" duration="947000" />
+      <workItem from="1577410262413" duration="852000" />
+      <workItem from="1577433379195" duration="1875000" />
+      <workItem from="1577929374595" duration="2998000" />
+      <workItem from="1578028081931" duration="819000" />
+      <workItem from="1578032511678" duration="1470000" />
+      <workItem from="1578034199714" duration="6494000" />
+      <workItem from="1578145302676" duration="3633000" />
+      <workItem from="1578227972756" duration="5441000" />
+      <workItem from="1578290841554" duration="21000" />
+      <workItem from="1578301042820" duration="3578000" />
+      <workItem from="1578367575790" duration="3274000" />
+      <workItem from="1580259625632" duration="9723000" />
+      <workItem from="1580347681460" duration="11442000" />
+      <workItem from="1580522432045" duration="1434000" />
     </task>
     <task id="LOCAL-00001" summary="pagehelper">
       <created>1556012150141</created>
@@ -676,43 +1401,50 @@
       <option name="project" value="LOCAL" />
       <updated>1567050482018</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="更新部分信息">
+      <created>1572503840729</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1572503840729</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test_main1 - 2019.09.29 at 16h 21m 45s.xml">
-      <configuration name="test.main1" configurationId="JUnit" />
+    <history-entry file="NodeReverse_test - 2019.12.17 at 16h 52m 59s.xml">
+      <configuration name="NodeReverse.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_main - 2019.09.29 at 16h 26m 41s.xml">
-      <configuration name="test.main" configurationId="JUnit" />
+    <history-entry file="NodeReverse_test - 2019.12.17 at 16h 53m 43s.xml">
+      <configuration name="NodeReverse.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_main1 - 2019.09.29 at 16h 26m 51s.xml">
-      <configuration name="test.main1" configurationId="JUnit" />
+    <history-entry file="NodeReverse_test - 2019.12.17 at 16h 57m 17s.xml">
+      <configuration name="NodeReverse.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_main2 - 2019.09.29 at 16h 39m 27s.xml">
-      <configuration name="test.main2" configurationId="JUnit" />
+    <history-entry file="NodeReverse_test - 2019.12.17 at 16h 58m 10s.xml">
+      <configuration name="NodeReverse.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_main2 - 2019.09.29 at 16h 41m 16s.xml">
-      <configuration name="test.main2" configurationId="JUnit" />
+    <history-entry file="NodeReverse_test - 2019.12.17 at 17h 19m 16s.xml">
+      <configuration name="NodeReverse.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_main2 - 2019.09.29 at 16h 43m 13s.xml">
-      <configuration name="test.main2" configurationId="JUnit" />
+    <history-entry file="NodeReverse_test - 2019.12.17 at 17h 24m 26s.xml">
+      <configuration name="NodeReverse.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_main2 - 2019.09.29 at 16h 43m 39s.xml">
-      <configuration name="test.main2" configurationId="JUnit" />
+    <history-entry file="NodeReverse_test - 2019.12.17 at 17h 26m 15s.xml">
+      <configuration name="NodeReverse.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_main2 - 2019.09.29 at 16h 46m 49s.xml">
-      <configuration name="test.main2" configurationId="JUnit" />
+    <history-entry file="NodeReverse_test - 2019.12.17 at 17h 30m 58s.xml">
+      <configuration name="NodeReverse.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_main2 - 2019.09.29 at 16h 53m 27s.xml">
-      <configuration name="test.main2" configurationId="JUnit" />
+    <history-entry file="NodeReverse_test - 2019.12.17 at 17h 34m 05s.xml">
+      <configuration name="NodeReverse.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_main - 2019.09.29 at 17h 03m 40s.xml">
-      <configuration name="test.main" configurationId="JUnit" />
+    <history-entry file="NodeReverse_test - 2019.12.17 at 17h 34m 52s.xml">
+      <configuration name="NodeReverse.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="545615000" />
+    <option name="totallyTimeSpent" value="725045000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -724,30 +1456,71 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-59" y="-900" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="722" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.09486166" visible="true" weight="0.17453505" />
-      <window_info id="Structure" order="1" sideWeight="0.9051383" side_tool="true" weight="0.20171674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.12222222" visible="true" weight="0.2003231" />
+      <window_info id="Structure" order="1" sideWeight="0.87777776" side_tool="true" weight="0.19709209" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.8917647" side_tool="true" weight="0.26898223" />
+      <window_info id="Web" order="7" sideWeight="0.8917647" side_tool="true" weight="0.26898223" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.32054794" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.42675158" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.16031747" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.17301588" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32962447" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49785408" weight="0.32698414" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.34353268" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50214595" side_tool="true" weight="0.47469878" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32465753" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50214595" side_tool="true" weight="0.32739726" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32328767" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.32891566" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49928468" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32823366" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="16" weight="0.32914925" />
+      <window_info anchor="bottom" id="JProfiler" order="17" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32904148" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.25822604" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="SciView" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="12" visible="true" weight="0.32956383" />
+      <window_info anchor="right" id="Word Book" order="13" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.09272727" visible="true" weight="0.26323318" />
+      <window_info id="Structure" order="1" sideWeight="0.90727276" side_tool="true" weight="0.21030043" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.90727276" side_tool="true" weight="0.21030043" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.24657534" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.42465752" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32962447" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49785408" visible="true" weight="0.32739726" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34353268" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50214595" side_tool="true" weight="0.32739726" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32328767" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32891566" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49928468" weight="0.3299363" />
       <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32823366" />
@@ -766,45 +1539,6 @@
       <window_info anchor="right" id="Bean Validation" order="10" />
       <window_info anchor="right" id="SciView" order="11" />
       <window_info anchor="right" id="Maven Projects" order="12" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.09486166" visible="true" weight="0.23819743" />
-      <window_info id="Structure" order="1" sideWeight="0.9051383" side_tool="true" weight="0.20171674" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.43694267" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.2976356" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32962447" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" weight="0.355414" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34353268" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50214595" side_tool="true" weight="0.477707" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985694" weight="0.32545203" />
-      <window_info anchor="bottom" id="Spring" order="13" weight="0.32891566" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49928468" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32823366" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="16" weight="0.32914925" />
-      <window_info anchor="bottom" id="JProfiler" order="17" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32904148" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.25822604" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -872,305 +1606,76 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/lambda.java">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/Default2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/testDefault.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/StreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/FunctionalInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="37" column="25" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="25" />
+        <state relative-caret-position="-63">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CloudAlibaba/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254" />
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Finchley.SR1/spring-cloud-dependencies-Finchley.SR1.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/InterviewApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="374">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/JavaversionApplication.java">
+    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/utils/InpitUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="175">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/NettyApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="170">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/utils/InpitUtils.java">
+    <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        <state relative-caret-position="17">
+          <caret line="246" column="54" selection-start-line="246" selection-start-column="54" selection-end-line="246" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/error.log" />
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/access.log" />
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/mvnw.cmd">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/JsonUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/utils/WebSocketUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebsocketRedisApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/config/DruidConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/controller/configTestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="88" column="35" lean-forward="true" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-598">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/NacosProviderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/test/java/com/zsj/nacos/down.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1512">
-          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/test/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/TokenBucketLimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/LeakyBucketLimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/RateLimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/imageio/ImageIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="1563" column="26" selection-start-line="1563" selection-start-column="26" selection-end-line="1563" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/test/java/com/zsj/interview/InterviewApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/linux命令">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/test/java/com/zsj/interview/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="109" column="24" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/项目docker/kibana.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/项目docker/solo.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="334">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/default.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="331" column="12" selection-start-line="331" selection-start-column="12" selection-end-line="331" selection-end-column="12" />
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/nginx.conf" />
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/test/java/com/zsj/javaversion/JavaversionApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/nginx/cloud.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="199">
+          <caret line="172" column="37" selection-start-line="172" selection-start-column="37" selection-end-line="172" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/config/RestTemplateConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="870" column="11" selection-start-line="870" selection-start-column="11" selection-end-line="870" selection-end-column="11" />
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/MathContext.java">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/controller/ConsumerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="77" column="36" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/fastbuy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/img/zsj.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/test/java/com/zsj/javaversion/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        <state relative-caret-position="396">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1181,31 +1686,315 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/origin.html">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-consumer/src/main/java/com/zsj/nacosconsumer/controller/NacosClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="1379" column="31" lean-forward="true" selection-start-line="1379" selection-start-column="31" selection-end-line="1379" selection-end-column="31" />
+        <state relative-caret-position="102">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1996">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketCloseEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketConnectEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/GetHttpSessionConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/synchronizedStudy.java" />
+    <entry file="file://$PROJECT_DIR$/Basic/interview/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/NodeReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLeaen/Study.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLeaen/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/algorithm/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287">
+          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="117" column="3" lean-forward="true" selection-start-line="117" selection-start-column="3" selection-end-line="117" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="215" column="23" lean-forward="true" selection-start-line="215" selection-start-column="23" selection-end-line="215" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/SecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="233" column="30" selection-start-line="233" selection-start-column="30" selection-end-line="233" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31484">
+          <caret line="1915" column="37" lean-forward="true" selection-start-line="1915" selection-start-column="37" selection-end-line="1915" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5559#5560#0" expanded="true" />
+            <element signature="e#5600#5601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="59" column="41" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="183" column="9" selection-start-line="183" selection-start-column="9" selection-end-line="183" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/UnsupportedOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="305" column="32" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+          <folding>
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1708#1709#0" expanded="true" />
+            <element signature="e#2022#2023#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/LockSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="132" column="44" lean-forward="true" selection-start-line="132" selection-start-column="44" selection-end-line="132" selection-end-column="44" />
+          <folding>
+            <element signature="e#10983#10984#0" expanded="true" />
+            <element signature="e#11021#11022#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.locks.ReentrantLock</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.locks.Lock</node>
+            <node x="" y="">java.util.concurrent.locks.ReentrantLock</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="109.0" y="54.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="264">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/free_vip.html">
+    <entry file="file://$PROJECT_DIR$/A-doc/git命令">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="231">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/config/ESConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="-153">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/ES/restclient/ESUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3123">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/config/DruidConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/nacos-provider/src/main/java/com/zsj/nacos/entity/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAlibaba/doc/springcloud alibaba">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="384" lean-forward="true" selection-start-line="384" selection-end-line="384" />
+          <folding>
+            <element signature="e#22675#22676#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#22933#22934#0" expanded="true" />
+            <element signature="e#22965#22966#0" expanded="true" />
+            <element signature="e#23930#24524#0" />
+            <element signature="e#32644#32645#0" expanded="true" />
+            <element signature="e#32694#32695#0" expanded="true" />
+            <element signature="e#41392#41393#0" expanded="true" />
+            <element signature="e#41449#41450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="237" column="32" lean-forward="true" selection-start-line="237" selection-start-column="32" selection-end-line="237" selection-end-column="32" />
+          <folding>
+            <element signature="e#6849#6850#0" expanded="true" />
+            <element signature="e#6907#6908#0" expanded="true" />
+            <element signature="e#7116#7117#0" expanded="true" />
+            <element signature="e#7150#7151#0" expanded="true" />
+            <element signature="e#8176#8177#0" expanded="true" />
+            <element signature="e#8216#8217#0" expanded="true" />
+            <element signature="e#9117#9118#0" expanded="true" />
+            <element signature="e#9144#9145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/ReenTrantLockLearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

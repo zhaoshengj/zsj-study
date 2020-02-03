@@ -9,7 +9,6 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>CloudAlibaba</module>
         <module>Basic</module>
         <module>Socket</module>
     </modules>
