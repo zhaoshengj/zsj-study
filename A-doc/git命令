@@ -14,7 +14,7 @@ git status
 //初始化你的项目为git仓库
 git init
 //添加所有的文件（注意"."）
-git add .-u
+git add .
 //提交注释(每一次提交代码到github的时候必须得写注释，否则也提交不上去)
 git commit -m "first commit"
 //添加源头(你要提交的地址,第一次提交的时候才会设置,设置过了之后就不用设置了)
