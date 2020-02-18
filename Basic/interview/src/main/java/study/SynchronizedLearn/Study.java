@@ -1,4 +1,4 @@
-package study.SynchronizedLeaen;
+package study.SynchronizedLearn;
 
 import org.openjdk.jol.info.ClassLayout;
 

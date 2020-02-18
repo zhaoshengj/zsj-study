@@ -130,4 +130,10 @@ public class MapBasic {
         return t;
     }
 
+    @Test
+    public void longTest(){
+        Long sdsdsd = Long.getLong("sdsdsd",1000);
+        System.out.println(sdsdsd);
+    }
+
 }

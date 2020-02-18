@@ -55,17 +55,18 @@ public class ReenTrantLockLearn {
 
         LockSupport.park();
 
-        reentrantLock.lock();
+       // reentrantLock.lock();
 
-        try {
+       // reentrantLock.unlock();
+
+       /* try {
             reentrantLock.lockInterruptibly();
-
-
         } catch (InterruptedException e) {
             e.printStackTrace();
-        }
+        }*/
         System.out.println(Thread.currentThread().getName());
 
 
     }
+
 }
