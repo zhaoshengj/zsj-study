@@ -1,4 +1,4 @@
-package com.zsj.interview.leetCode;
+package com.zsj.leetcode.easy;
 
 public class Algorithm2 {
 

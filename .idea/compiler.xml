@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="interview" />
         <module name="javaversion" />
+        <module name="LeetCode" />
         <module name="netty" />
         <module name="websocket-redis" />
       </profile>
