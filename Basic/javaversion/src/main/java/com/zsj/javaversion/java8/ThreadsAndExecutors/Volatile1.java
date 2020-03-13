@@ -2,6 +2,7 @@ package com.zsj.javaversion.java8.ThreadsAndExecutors;
 
 import org.junit.Test;
 
+import java.io.Externalizable;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

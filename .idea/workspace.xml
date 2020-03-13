@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3ef059-e0e7-438b-b35c-4363a57dd684" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/jzof/JZOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/jzof/JZOF9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/lc/MaxQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/lc/lc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/BasicString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/Collection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/Algorithm1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/Algorithm2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/Algorithm2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/ArrayAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/ArrayAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/LinkListAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/LinkListAlgo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/leetCode/StringAlorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/StringAlorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLearn/Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLearn/Study.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-Learn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/Algorithm1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/Algorithm2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/ArrayAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/LinkListAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/StringAlorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/ListBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/MapBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Volatile1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Volatile1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/ReenTrantLockLearn.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/ReenTrantLockLearn.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,6 +48,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/SpringCloud$NacosConsumerApplication.ic" NAME="NacosConsumerApplication Coverage Results" MODIFIED="1554964042389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SpringCloud$Collection_testList.ic" NAME="Collection.testList Coverage Results" MODIFIED="1583946261940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zsj.javaversion.java.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/SpringCloud$MapBasic_maptest.ic" NAME="MapBasic.maptest Coverage Results" MODIFIED="1555055867101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.zsj.interview.JAVA.*</FILTER>
     </SUITE>
@@ -48,7 +58,7 @@
   <component name="CoverageViewManager">
     <option name="myFlattenPackages" value="true" />
     <option name="myAutoScrollToSource" value="true" />
-    <option name="myElementSize" value="202" />
+    <option name="myElementSize" value="177" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -68,13 +78,14 @@
     <session id="-1000943230">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="47" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="50" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="19" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.29" value="1" />
@@ -84,22 +95,22 @@
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="47" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ReentrantLock" value="2" />
-          <entry key="class" value="34" />
+          <entry key="class" value="35" />
           <entry key="conf" value="22" />
           <entry key="crt" value="1" />
           <entry key="docker命令（Dockerfile）" value="2" />
           <entry key="docker命令（build篇）" value="2" />
           <entry key="docker命令（run）" value="2" />
           <entry key="git命令" value="7" />
-          <entry key="html" value="28" />
+          <entry key="html" value="30" />
           <entry key="ico" value="11" />
-          <entry key="java" value="382" />
+          <entry key="java" value="504" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="2" />
           <entry key="log" value="2" />
@@ -116,10 +127,10 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="34" />
-          <entry key="HTML" value="28" />
+          <entry key="CLASS" value="35" />
+          <entry key="HTML" value="30" />
           <entry key="Image" value="17" />
-          <entry key="JAVA" value="382" />
+          <entry key="JAVA" value="504" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="58" />
           <entry key="Properties" value="1" />
@@ -133,22 +144,22 @@
           <entry key="conf" value="293" />
           <entry key="dummy" value="10" />
           <entry key="git命令" value="53" />
-          <entry key="html" value="344" />
-          <entry key="java" value="11211" />
+          <entry key="html" value="375" />
+          <entry key="java" value="23033" />
           <entry key="md" value="5" />
           <entry key="properties" value="8" />
           <entry key="py" value="17" />
           <entry key="sh" value="20" />
-          <entry key="txt" value="18" />
+          <entry key="txt" value="29" />
           <entry key="xml" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="344" />
-          <entry key="JAVA" value="11211" />
+          <entry key="HTML" value="375" />
+          <entry key="JAVA" value="23033" />
           <entry key="Markdown" value="5" />
-          <entry key="PLAIN_TEXT" value="411" />
+          <entry key="PLAIN_TEXT" value="422" />
           <entry key="Properties" value="8" />
           <entry key="XML" value="55" />
         </counts>
@@ -159,7 +170,22 @@
     <favorites_list name="SpringCloud" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/jzof/JZOF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="392" column="5" lean-forward="true" selection-start-line="392" selection-start-column="5" selection-end-line="392" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#9073#9074#0" expanded="true" />
+                <element signature="e#9146#9147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -194,7 +220,17 @@
       <find>priority</find>
       <find>state</find>
       <find>submit</find>
+      <find>toStringCache</find>
+      <find>sleep</find>
+      <find>TreeNode</find>
+      <find>value</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -202,16 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/suanfa/Node.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/Node.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/ListNode.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/Node.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/NodeReversc.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/LNode.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/thread/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/NodeReverse.java" />
-        <option value="$PROJECT_DIR$/A-Learn/env.py" />
-        <option value="$PROJECT_DIR$/A-doc/default.conf" />
         <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/User.java" />
         <option value="$PROJECT_DIR$/A-Learn/st.sh" />
         <option value="$PROJECT_DIR$/A-doc/docker配置文件/nginx/alibaba.conf" />
@@ -226,7 +252,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/A-doc/git命令" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/ReenTrantLockLearn.java" />
         <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/MapBasic.java" />
         <option value="$PROJECT_DIR$/Socket/netty/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/utils/InpitUtils.java" />
@@ -248,11 +273,22 @@
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/DelimiterBasedFrameDecoder/DelimiterBasedFrameDecoder.java" />
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/DelimiterBasedFrameDecoder/DelimiterBasedFrameDecoderServer.java" />
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/DelimiterBasedFrameDecoder/DelimiterBasedFrameDecoderClient.java" />
-        <option value="$PROJECT_DIR$/A-Learn/index.html" />
         <option value="$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLearn/Study.java" />
         <option value="$PROJECT_DIR$/Basic/pom.xml" />
         <option value="$PROJECT_DIR$/Basic/LeetCode/pom.xml" />
         <option value="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/Algorithm1.java" />
+        <option value="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/LinkListAlgo.java" />
+        <option value="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/dto/ListNode.java" />
+        <option value="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/jzof/JZOF9.java" />
+        <option value="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/jzof/JZOF1_10.java" />
+        <option value="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/lc/MaxQueue.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Volatile1.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/ReenTrantLockLearn.java" />
+        <option value="$PROJECT_DIR$/A-Learn/index.html" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/BasicString.java" />
+        <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/Collection.java" />
+        <option value="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/lc/lc.java" />
+        <option value="$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/jzof/JZOF.java" />
       </list>
     </option>
   </component>
@@ -271,26 +307,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="interview" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="interview" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -321,68 +338,6 @@
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -427,6 +382,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/luqin001/Desktop/zsj/SpringCloud/Basic/LeetCode/src/main/java/com/zsj/leetcode/lc/lc.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578152074509" />
@@ -473,13 +429,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DelimiterBasedFrameDecoderClient">
-    <configuration name="DelimiterBasedFrameDecoderClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsj.netty.DelimiterBasedFrameDecoder.DelimiterBasedFrameDecoderClient" />
-      <module name="netty" />
+  <component name="RunManager" selected="JUnit.lc.test">
+    <configuration name="BasicString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.java.BasicString" />
+      <module name="javaversion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.netty.DelimiterBasedFrameDecoder.*" />
+          <option name="PATTERN" value="com.zsj.javaversion.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -487,54 +443,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DelimiterBasedFrameDecoderServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsj.netty.DelimiterBasedFrameDecoder.DelimiterBasedFrameDecoderServer" />
-      <module name="netty" />
+    <configuration name="Collection.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaversion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.netty.DelimiterBasedFrameDecoder.*" />
+          <option name="PATTERN" value="com.zsj.javaversion.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.zsj.javaversion.java" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.javaversion.java.Collection" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGCDetails" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSockets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsj.nio.selector.SelectSockets" />
-      <module name="netty" />
+    <configuration name="JZOF.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.nio.selector.*" />
+          <option name="PATTERN" value="com.zsj.leetcode.jzof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.zsj.leetcode.jzof" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.leetcode.jzof.JZOF" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsj.nio.channel.TimeClient" />
-      <module name="netty" />
+    <configuration name="lc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.nio.channel.*" />
+          <option name="PATTERN" value="com.zsj.leetcode.lc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.zsj.leetcode.lc" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.leetcode.lc.lc" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsj.nio.TimeServer" />
-      <module name="netty" />
+    <configuration name="lc.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsj.nio.*" />
+          <option name="PATTERN" value="com.zsj.leetcode.lc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.zsj.leetcode.lc" />
+      <option name="MAIN_CLASS_NAME" value="com.zsj.leetcode.lc.lc" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -597,21 +565,24 @@
       <item itemvalue="Spring Boot.WebsocketRedisApplication" />
       <item itemvalue="Spring Boot.NettyApplication" />
       <item itemvalue="Spring Boot.LeetcodeApplication" />
-      <item itemvalue="Application.TimeClient (1)" />
-      <item itemvalue="Application.SelectSockets" />
-      <item itemvalue="Application.TimeServer" />
-      <item itemvalue="Application.DelimiterBasedFrameDecoderServer" />
-      <item itemvalue="Application.DelimiterBasedFrameDecoderClient" />
+      <item itemvalue="Application.BasicString" />
+      <item itemvalue="JUnit.JZOF.test" />
+      <item itemvalue="JUnit.lc.test" />
+      <item itemvalue="JUnit.lc" />
+      <item itemvalue="JUnit.Collection.testList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DelimiterBasedFrameDecoderClient" />
-        <item itemvalue="Application.DelimiterBasedFrameDecoderServer" />
-        <item itemvalue="Application.TimeClient (1)" />
-        <item itemvalue="Application.TimeServer" />
-        <item itemvalue="Application.SelectSockets" />
+        <item itemvalue="JUnit.lc.test" />
+        <item itemvalue="JUnit.Collection.testList" />
+        <item itemvalue="Application.BasicString" />
+        <item itemvalue="JUnit.JZOF.test" />
+        <item itemvalue="JUnit.lc" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -737,6 +708,9 @@
       <workItem from="1581767930402" duration="3508000" />
       <workItem from="1581941829971" duration="325000" />
       <workItem from="1581988058234" duration="4280000" />
+      <workItem from="1582203746698" duration="27385000" />
+      <workItem from="1582965123270" duration="33871000" />
+      <workItem from="1583644531317" duration="24361000" />
     </task>
     <task id="LOCAL-00001" summary="pagehelper">
       <created>1556012150141</created>
@@ -857,43 +831,50 @@
       <option name="project" value="LOCAL" />
       <updated>1581988235681</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="算法学习">
+      <created>1582203858554</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1582203858554</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NodeReverse_test - 2019.12.17 at 17h 30m 58s.xml">
-      <configuration name="NodeReverse.test" configurationId="JUnit" />
+    <history-entry file="lc_test - 2020.03.12 at 14h 32m 48s.xml">
+      <configuration name="lc.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NodeReverse_test - 2019.12.17 at 17h 34m 05s.xml">
-      <configuration name="NodeReverse.test" configurationId="JUnit" />
+    <history-entry file="lc_test - 2020.03.12 at 14h 33m 04s.xml">
+      <configuration name="lc.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NodeReverse_test - 2019.12.17 at 17h 34m 52s.xml">
-      <configuration name="NodeReverse.test" configurationId="JUnit" />
+    <history-entry file="lc_test - 2020.03.12 at 14h 33m 15s.xml">
+      <configuration name="lc.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MapBasic_longTest - 2020.02.05 at 22h 40m 57s.xml">
-      <configuration name="MapBasic.longTest" configurationId="JUnit" />
+    <history-entry file="lc_test - 2020.03.12 at 14h 35m 22s.xml">
+      <configuration name="lc.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MapBasic_longTest - 2020.02.05 at 22h 41m 37s.xml">
-      <configuration name="MapBasic.longTest" configurationId="JUnit" />
+    <history-entry file="lc_test - 2020.03.12 at 14h 35m 35s.xml">
+      <configuration name="lc.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSelector_test - 2020.02.14 at 09h 05m 27s.xml">
-      <configuration name="TestSelector.test" configurationId="JUnit" />
+    <history-entry file="lc_test - 2020.03.12 at 14h 39m 12s.xml">
+      <configuration name="lc.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSelector_test - 2020.02.14 at 09h 07m 17s.xml">
-      <configuration name="TestSelector.test" configurationId="JUnit" />
+    <history-entry file="lc_test - 2020.03.12 at 14h 43m 21s.xml">
+      <configuration name="lc.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSelector_test - 2020.02.14 at 09h 07m 22s.xml">
-      <configuration name="TestSelector.test" configurationId="JUnit" />
+    <history-entry file="lc_test - 2020.03.12 at 14h 44m 45s.xml">
+      <configuration name="lc.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSelector_test - 2020.02.14 at 09h 07m 48s.xml">
-      <configuration name="TestSelector.test" configurationId="JUnit" />
+    <history-entry file="lc_test - 2020.03.12 at 14h 44m 53s.xml">
+      <configuration name="lc.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSelector_test - 2020.02.14 at 09h 20m 39s.xml">
-      <configuration name="TestSelector.test" configurationId="JUnit" />
+    <history-entry file="lc_test - 2020.03.12 at 14h 44m 59s.xml">
+      <configuration name="lc.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="767500000" />
+    <option name="totallyTimeSpent" value="853117000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -907,8 +888,8 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.11820331" visible="true" weight="0.25686592" />
-      <window_info id="Structure" order="1" sideWeight="0.8817967" side_tool="true" weight="0.25444266" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.11746032" visible="true" weight="0.23101777" />
+      <window_info id="Structure" order="1" sideWeight="0.8825397" side_tool="true" weight="0.23101777" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -917,13 +898,13 @@
       <window_info id="Web" order="7" sideWeight="0.8917647" side_tool="true" weight="0.26898223" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.4920635" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.17301588" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.43333334" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.63809526" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32962447" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49785408" visible="true" weight="0.32698414" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49785408" weight="0.32698414" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4983845" weight="0.34285715" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5016155" side_tool="true" weight="0.34285715" />
@@ -933,7 +914,7 @@
       <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32823366" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="16" weight="0.32914925" />
       <window_info anchor="bottom" id="JProfiler" order="17" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32956383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
@@ -949,8 +930,8 @@
       <window_info anchor="right" id="Word Book" order="13" side_tool="true" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.12063492" visible="true" weight="0.29159936" />
-      <window_info id="Structure" order="1" sideWeight="0.8793651" side_tool="true" weight="0.28675282" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.11746032" visible="true" weight="0.23101777" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.8825397" side_tool="true" visible="true" weight="0.23101777" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -959,8 +940,8 @@
       <window_info id="Web" order="7" sideWeight="0.8917647" side_tool="true" weight="0.26898223" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.25714287" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.17301588" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.30793652" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.63809526" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32962447" />
@@ -1039,16 +1020,23 @@
     <MESSAGE value="更新部分信息" />
     <MESSAGE value="编辑信息" />
     <MESSAGE value="socket" />
-    <option name="LAST_COMMIT_MESSAGE" value="socket" />
+    <MESSAGE value="算法学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/MapBasic.java</url>
-          <line>37</line>
+          <url>file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/jzof/JZOF.java</url>
+          <line>546</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/BasicString.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1058,360 +1046,446 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/nio/selector/TestSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/nio/selector/SelectSockets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/CallableAndFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/NodeReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-310">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/openjdk/jol/jol-core/0.10/jol-core-0.10.jar!/org/openjdk/jol/info/ClassLayout.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/thread/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/com/zsj/interview/test/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret line="218" column="19" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="1045" column="21" selection-start-line="1045" selection-start-column="21" selection-end-line="1045" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
-          <caret line="120" column="21" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+          <caret line="138" column="26" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/nio/channels/SelectionKey.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="143" column="28" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
+        <state relative-caret-position="201">
+          <caret line="155" column="27" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="266" column="13" lean-forward="true" selection-start-line="266" selection-start-column="13" selection-end-line="266" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/ReenTrantLockLearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/algorithm/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5139">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="151" column="38" lean-forward="true" selection-start-line="151" selection-start-column="38" selection-end-line="151" selection-end-column="38" />
+        <state relative-caret-position="201">
+          <caret line="131" column="11" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/lock/lockOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/Default2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/basic/Default1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Volatile1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="418" column="25" selection-start-line="418" selection-start-column="25" selection-end-line="418" selection-end-column="25" />
+        <state relative-caret-position="-1899">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/CallableAndFuture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="86" column="22" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
+        <state relative-caret-position="184">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Executor1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="262" column="7" lean-forward="true" selection-start-line="262" selection-start-column="7" selection-end-line="262" selection-end-column="7" />
+        <state relative-caret-position="136">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/nio/channel/TimeClient.java">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java8/ThreadsAndExecutors/Thread1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="-63">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/nio/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.22.Final/netty-all-4.1.22.Final.jar!/io/netty/channel/socket/oio/OioServerSocketChannel.class">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.22.Final/netty-all-4.1.22.Final.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="27" column="88" selection-start-line="27" selection-start-column="88" selection-end-line="27" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.22.Final/netty-all-4.1.22.Final.jar!/io/netty/channel/socket/ServerSocketChannel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.22.Final/netty-all-4.1.22.Final.jar!/io/netty/channel/ServerChannel.class">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/ListBasic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.22.Final/netty-all-4.1.22.Final.jar!/io/netty/channel/Channel.class">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/MapBasic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="-439">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.22.Final/netty-all-4.1.22.Final.jar!/io/netty/channel/ChannelConfig.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="98">
+          <caret line="95" column="27" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.22.Final/netty-all-4.1.22.Final.jar!/io/netty/channel/EventLoopGroup.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Appendable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="-69">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.22.Final/netty-all-4.1.22.Final.jar!/io/netty/bootstrap/ServerBootstrap.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/CharSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        <state relative-caret-position="206">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.22.Final/netty-all-4.1.22.Final.jar!/io/netty/bootstrap/AbstractBootstrap.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="205" column="26" selection-start-line="205" selection-start-column="26" selection-end-line="205" selection-end-column="26" />
+        <state relative-caret-position="1954">
+          <caret line="690" lean-forward="true" selection-start-line="690" selection-end-line="690" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/test.java" />
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/DelimiterBasedFrameDecoder/DelimiterBasedFrameDecoderServer.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        <state relative-caret-position="194">
+          <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/DelimiterBasedFrameDecoder/DelimiterBasedFrameDecoderClient.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="131">
+          <caret line="406" column="39" lean-forward="true" selection-start-line="406" selection-start-column="39" selection-end-line="406" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.22.Final/netty-all-4.1.22.Final.jar!/io/netty/handler/codec/ByteToMessageDecoder.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="194">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="3688" column="18" selection-start-line="3688" selection-start-column="18" selection-end-line="3688" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="805" column="34" selection-start-line="805" selection-start-column="33" selection-end-line="805" selection-end-column="34" />
+          <folding>
+            <element signature="e#34114#34115#0" expanded="true" />
+            <element signature="e#34170#34171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1506">
+          <caret line="104" column="28" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
+          <folding>
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+            <element signature="e#2786#2787#0" expanded="true" />
+            <element signature="e#2837#2838#0" expanded="true" />
+            <element signature="e#3914#3915#0" expanded="true" />
+            <element signature="e#3960#3961#0" expanded="true" />
+            <element signature="e#4400#4401#0" expanded="true" />
+            <element signature="e#4440#4441#0" expanded="true" />
+            <element signature="e#5014#5015#0" expanded="true" />
+            <element signature="e#5077#5078#0" expanded="true" />
+            <element signature="e#5960#5961#0" expanded="true" />
+            <element signature="e#6014#6015#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8414#8415#0" expanded="true" />
+            <element signature="e#8972#8973#0" expanded="true" />
+            <element signature="e#9006#9007#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="2001" column="21" selection-start-line="2001" selection-start-column="21" selection-end-line="2001" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="571" column="54" lean-forward="true" selection-start-line="571" selection-start-column="54" selection-end-line="571" selection-end-column="54" />
+        <state relative-caret-position="338">
+          <caret line="238" column="38" lean-forward="true" selection-start-line="238" selection-start-column="38" selection-end-line="238" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/git命令">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/LeakyBucketLimiter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="272">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/bio/TimeClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/bio/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/bio/TimeServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/LNode.java">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/TokenBucketLimiter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLearn/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLearn/Study.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1040">
-          <caret line="67" column="30" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-doc/docker配置文件/data/redis.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/LeetcodeApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/Algorithm2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/ArrayAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/StringAlorithm.java">
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/CounterLimiter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/Algorithm1.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+        <state relative-caret-position="149">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="492" selection-start-line="492" selection-end-line="493" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="219" column="32" lean-forward="true" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="32" />
+          <folding>
+            <element signature="e#3740#3741#0" expanded="true" />
+            <element signature="e#3777#3778#0" expanded="true" />
+            <element signature="e#4865#4866#0" expanded="true" />
+            <element signature="e#4929#4930#0" expanded="true" />
+            <element signature="e#5324#5325#0" expanded="true" />
+            <element signature="e#5376#5377#0" expanded="true" />
+            <element signature="e#6484#6485#0" expanded="true" />
+            <element signature="e#6530#6531#0" expanded="true" />
+            <element signature="e#6715#6716#0" expanded="true" />
+            <element signature="e#6748#6749#0" expanded="true" />
+            <element signature="e#6928#6929#0" expanded="true" />
+            <element signature="e#6964#6965#0" expanded="true" />
+            <element signature="e#7427#7428#0" expanded="true" />
+            <element signature="e#7468#7469#0" expanded="true" />
+            <element signature="e#8064#8065#0" expanded="true" />
+            <element signature="e#8112#8113#0" expanded="true" />
+            <element signature="e#8762#8763#0" expanded="true" />
+            <element signature="e#8807#8808#0" expanded="true" />
+            <element signature="e#8954#8955#0" expanded="true" />
+            <element signature="e#8981#8982#0" expanded="true" />
+            <element signature="e#13254#13255#0" expanded="true" />
+            <element signature="e#13331#13332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="684" column="30" selection-start-line="684" selection-start-column="30" selection-end-line="684" selection-end-column="30" />
+          <folding>
+            <element signature="e#19103#19104#0" expanded="true" />
+            <element signature="e#19161#19162#0" expanded="true" />
+            <element signature="e#23628#23629#0" expanded="true" />
+            <element signature="e#23682#23683#0" expanded="true" />
+            <element signature="e#24329#24330#0" expanded="true" />
+            <element signature="e#24394#24395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/RandomAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="107" column="33" selection-start-line="107" selection-start-column="33" selection-end-line="107" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4084">
+          <caret line="83" column="18" lean-forward="true" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/limit/RateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="708" lean-forward="true" selection-start-line="708" selection-end-line="708" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/BasicString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="21" selection-start-line="31" selection-start-column="8" selection-end-line="40" selection-end-column="21" />
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="268">
+          <caret line="3330" column="25" selection-start-line="3330" selection-start-column="25" selection-end-line="3330" selection-end-column="25" />
+          <folding>
+            <element signature="e#99118#99119#0" expanded="true" />
+            <element signature="e#99175#99176#0" expanded="true" />
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+            <element signature="e#177353#177354#0" expanded="true" />
+            <element signature="e#177410#177411#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/thread/ThreadPoolExecutor.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3205">
-          <caret line="221" column="5" selection-start-line="221" selection-start-column="5" selection-end-line="221" selection-end-column="5" />
+        <state relative-caret-position="-288">
+          <caret line="2336" column="8" lean-forward="true" selection-start-line="2336" selection-start-column="8" selection-end-line="2336" selection-end-column="8" />
+          <folding>
+            <element signature="e#55800#55801#0" expanded="true" />
+            <element signature="e#55844#55845#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/LeetCode/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="-396">
+          <caret line="1102" column="11" lean-forward="true" selection-start-line="1102" selection-start-column="11" selection-end-line="1102" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/easy/LinkListAlgo.java">
+    <entry file="file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/lc/lc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="204">
+          <caret line="80" column="5" lean-forward="true" selection-start-line="71" selection-start-column="3" selection-end-line="80" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1972#1973#0" expanded="true" />
+            <element signature="e#2019#2020#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/leetcode/jzof/JZOF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="392" column="5" lean-forward="true" selection-start-line="392" selection-start-column="5" selection-end-line="392" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9073#9074#0" expanded="true" />
+            <element signature="e#9146#9147#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1466,7 +1540,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8.0_171</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1483,6 +1557,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

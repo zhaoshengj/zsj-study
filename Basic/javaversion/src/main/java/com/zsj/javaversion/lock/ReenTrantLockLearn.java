@@ -6,7 +6,6 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 public class ReenTrantLockLearn {
 
-
     static  ReentrantLock reentrantLock = new ReentrantLock();
 
     static  ReentrantReadWriteLock readWriteLock = new ReentrantReadWriteLock();
