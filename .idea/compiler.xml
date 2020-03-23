@@ -10,6 +10,7 @@
         <module name="javaversion" />
         <module name="LeetCode" />
         <module name="netty" />
+        <module name="tomcat-study" />
         <module name="websocket-redis" />
       </profile>
     </annotationProcessing>
@@ -19,6 +20,7 @@
       <module name="nacos-consumer" target="1.8" />
       <module name="nacos-provider" target="1.8" />
       <module name="nacos-provider-1" target="1.8" />
+      <module name="tomcat" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

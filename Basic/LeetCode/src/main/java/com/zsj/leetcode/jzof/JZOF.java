@@ -314,7 +314,7 @@ public class JZOF {
     }
     //双指针(一个指针固定，另外一个指针移动)
     public ListNode reverseList2(ListNode head) {
-        if (head == null) { return null; }
+        /*if (head == null) { return null; }
         ListNode cur = head; //移动的当前指针
         while (head.next != null){
             ListNode t = head.next.next;
@@ -322,7 +322,18 @@ public class JZOF {
             cur = head.next;
             head.next = t;
         }
-        return cur;
+        return cur;*/
+        if(head == null){
+            return null;
+        }
+        ListNode curr = head;
+        while (head.next != null){
+           ListNode t  = head.next.next;
+           head.next.next = curr;
+           curr = head.next;
+           head.next = t;
+        }
+        return curr;
     }
 
     //面试题25. 合并两个排序的链表

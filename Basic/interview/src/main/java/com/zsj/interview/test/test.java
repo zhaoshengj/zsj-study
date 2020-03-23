@@ -1,6 +1,10 @@
 package com.zsj.interview.test;
 
 import java.util.Scanner;
+import java.util.concurrent.CountDownLatch;
+import java.util.concurrent.Semaphore;
+import java.util.concurrent.locks.ReentrantLock;
+import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
  * @author zsj
@@ -9,6 +13,8 @@ import java.util.Scanner;
 public class test {
 
     public static String test(String str){
+
+
         if (str == null || str.length() == 0) {
             return "";
         }
@@ -27,5 +33,10 @@ public class test {
        Scanner in = new Scanner(System.in);
         String s = in.nextLine();
         System.out.println(test(s));
+
+        ReentrantReadWriteLock lock = new ReentrantReadWriteLock();
+        lock.readLock().lock();
+
+        lock.writeLock().lock();
     }
 }
