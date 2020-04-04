@@ -3,16 +3,16 @@ package com.zsj.javaversion.java;
 import org.junit.Test;
 
 import java.util.*;
-import java.util.concurrent.ConcurrentLinkedDeque;
-import java.util.concurrent.ConcurrentLinkedQueue;
-import java.util.concurrent.CopyOnWriteArrayList;
-import java.util.concurrent.LinkedBlockingQueue;
+import java.util.concurrent.*;
 
 public class Collection {
 
     @Test
     public void testList(){
 
+        Map<Object, Object> objectMap = Collections.synchronizedMap(new HashMap<>());
+
+        Hashtable hashtable = new Hashtable();
         Vector vector = new Vector();
 
         ArrayList list = new ArrayList();
@@ -62,11 +62,12 @@ public class Collection {
 
     @Test
     public void testBitSet(){
-        BitSet set = new BitSet(1);
-        System.out.println( 1 >> 6);
+        System.out.println( 1 << 30 >>> 1);
+        int n = 16;
+        int i = n + (n >>> 1) + 1;
 
-        System.out.println(set);
-
+        //int i = n - (n >>> 2);
+        System.out.println(i);
 
     }
 }

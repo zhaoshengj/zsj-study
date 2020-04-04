@@ -1,10 +1,12 @@
 package com.zsj.javaversion.java;
 
 import com.zsj.javaversion.algorithm.Sort;
+import org.junit.Test;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.*;
+import java.util.concurrent.atomic.LongAdder;
 
 public class BasicString {
 
@@ -15,6 +17,8 @@ public class BasicString {
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
+
+        StringTokenizer tokenizer = new StringTokenizer("hello world");
 
         String s = "";
         StringBuilder builder = new StringBuilder();
@@ -33,6 +37,22 @@ public class BasicString {
         System.out.println(Integer.MAX_VALUE);
         System.out.println(Integer.MIN_VALUE);
 
+    }
+
+
+    @Test
+    public void test(){
+        String property = System.getProperty("sun.arch.data.model");
+        System.gc();
+
+        Runtime.getRuntime().gc();
+        System.out.println(property);
+
+        try {
+            Thread.sleep(10000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 
 

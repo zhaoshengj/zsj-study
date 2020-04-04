@@ -21,13 +21,20 @@ public class BufferCreateDemo {
         //打印出刚刚创建的缓冲区的相关信息
        // print(allocate,wrap,wrapoffset);
 
-        ByteBuffer buffer = ByteBuffer.allocate(10);
-        print(buffer);
+        ByteBuffer buffer = ByteBuffer.allocate(20);
         byte H=0x48;
         byte e=0x65;
         byte l=0x6C;
         byte o=0x6F;
         buffer.put(H).put(e).put(l).put(l).put(o);
+        print(buffer);
+        buffer.flip();
+        print(buffer);
+        byte[] bytes = new byte[buffer.remaining()];
+        buffer.get(bytes);
+        System.out.println(new String(bytes));
+        print(buffer);
+        buffer.clear();
         print(buffer);
     }
 
@@ -45,23 +52,29 @@ public class BufferCreateDemo {
     }
 
 
+
     public void channel() throws IOException {
 
-        SocketChannel sc = SocketChannel.open( );
-        sc.connect (new InetSocketAddress("somehost", 10));
-
+        SocketChannel sc = SocketChannel.open();
+        sc.connect (new InetSocketAddress("localhost", 10));
         sc.configureBlocking (false); // nonblocking
-        if ( !sc.isBlocking()) {
+        if (!sc.isBlocking()) {
         }
+        sc.finishConnect();
 
         ServerSocketChannel ssc = ServerSocketChannel.open( );
-        ssc.socket( ).bind (new InetSocketAddress (21));
+        ssc.socket().bind (new InetSocketAddress (21));
+        ssc.register(sc,SelectionKey.OP_READ)
+        SocketChannel accept = ssc.accept();
+        accept.configureBlocking(false);
+        accept.shutdownOutput();
+        accept.close();
 
-        DatagramChannel dc = DatagramChannel.open( );
+        DatagramChannel dc = DatagramChannel.open();
+        dc.connect(new InetSocketAddress("localhost",10));
 
         RandomAccessFile raf = new RandomAccessFile("somefile", "r");
         FileChannel fc = raf.getChannel( );
-
 
     }
 }

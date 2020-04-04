@@ -12,7 +12,8 @@ grep -E ^a text
 a 结尾
 grep -E a$ text
 
-
+#查看端口占用情况
+lsof -i:8080
 
 #  内存使用情况
 

@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="interview" />
         <module name="javaversion" />
-        <module name="LeetCode" />
         <module name="netty" />
         <module name="tomcat-study" />
         <module name="websocket-redis" />
@@ -17,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="Alibaba" target="1.8" />
       <module name="CloudAlibaba" target="1.8" />
+      <module name="LeetCode" target="1.8" />
       <module name="nacos-consumer" target="1.8" />
       <module name="nacos-provider" target="1.8" />
       <module name="nacos-provider-1" target="1.8" />
