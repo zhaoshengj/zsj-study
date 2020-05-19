@@ -22,7 +22,7 @@ git remote add origin https://github.com/用户名/项目名.git
 //提交代码到指定的分支(你要提交的项目地址有可能有多个分支)
 git push -u origin master
 
-
+cd
 //解决github 上仓库关联别的git仓库，文件夹无法打开
 如果直接 git rm 的话本地的文件夹也被删除，应该删缓冲。
 

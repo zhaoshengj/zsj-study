@@ -64,7 +64,7 @@ public class BufferCreateDemo {
 
         ServerSocketChannel ssc = ServerSocketChannel.open( );
         ssc.socket().bind (new InetSocketAddress (21));
-        ssc.register(sc,SelectionKey.OP_READ)
+        //ssc.register(sc,SelectionKey.OP_READ);
         SocketChannel accept = ssc.accept();
         accept.configureBlocking(false);
         accept.shutdownOutput();

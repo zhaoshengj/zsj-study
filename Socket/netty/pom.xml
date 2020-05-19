@@ -39,7 +39,12 @@
 		<dependency>
 			<groupId>io.netty</groupId>
 			<artifactId>netty-all</artifactId>
-			<version>4.1.22.Final</version>
+			<version>4.1.43.Final</version>
+		</dependency>
+		<dependency>
+			<groupId>io.netty</groupId>
+			<artifactId>netty</artifactId>
+			<version>RELEASE</version>
 		</dependency>
         <dependency>
             <groupId>junit</groupId>
