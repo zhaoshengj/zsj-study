@@ -1,617 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a3ef059-e0e7-438b-b35c-4363a57dd684" name="Default Changelist" comment="调试">
-      <change afterPath="$PROJECT_DIR$/A-Learn/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/Echo/EchoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/Echo/EchoClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/Echo/EchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/Echo/EchoServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/NettyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty_IM/common/ProtobufEncode.java" afterDir="false" />
+    <list default="true" id="4a3ef059-e0e7-438b-b35c-4363a57dd684" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/A-Learn/img/spring.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-Learn/img/aliyy.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/A-Learn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/git命令" beforeDir="false" afterPath="$PROJECT_DIR$/A-doc/git命令" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/css/selection.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/dynamic.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/js/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/js/common.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/9IPHP/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/bg-blue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/bg-brown.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/bg-grey.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/bg-transparent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/bgs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/images/paint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/side-tool.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Andrea/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/css/_bootstrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bruce/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/category.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/images/footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/images/header-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/images/side-bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/TweenMax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/TweenMax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/circleMagic.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/circleMagic.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/js/common.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/macro-header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Bubble/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/images/header-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/js/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/js/common.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/macro-header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Casper/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/images/author-header.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/images/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/images/indentline-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/images/indentline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Community/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/category.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/css/fonts/selection.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/dynamic.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/images/header-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/images/next.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/images/preview.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/js/Finding.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/js/Finding.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Finding/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/categories.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/_icon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/css/fonts/selection.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/js/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/js/common.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Jane/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/bottom.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/bottom2.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/js/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/js/common.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/nav.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Medium/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/images/404.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/images/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/images/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/js/NeoEase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/js/NeoEase.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/NeoEase/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/css/_icon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/images/ico.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/js/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/js/common.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/js/headroom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/js/headroom.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/Pinghsu/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/Guestbook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/about.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/ads.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/anelli.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/antefatto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/archivio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/blog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/box.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/categorie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/category.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/classifiche.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/comment.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/comment.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/commentpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/cont-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/cont-bg_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/corner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/cuore.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/default.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/esclamativo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/footer-ico.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/icons.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/info.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/pl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/roundbottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/roundtop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/tagsIcon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/textfield.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/thinks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/top-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/images/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/nav.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/statistic.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/favourite/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/box.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/comment.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/commentpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/footer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/icons.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/light.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/main_shadow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/menu.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/sidebar_shadow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/sidesep.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/textfield.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/images/widgetsep.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/i-nove/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/category.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/copyright.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/font/IcoMoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/font/IcoMoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/font/IcoMoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/css/font/IcoMoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/dynamic.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/images/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/images/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/js/metro-hot.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/js/metro-hot.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/macro-side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/metro-hot/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/css/fonts/selection.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/dynamic.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/js/next.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/js/next.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/next/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/_icon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/css/fonts/selection.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/dynamic.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/background6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/cursor.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/images/pointer.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/js/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/js/common.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/nijigen/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/ai8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/comment.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/commentpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/hd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/icons.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/images/textfield.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/owmx-3.0/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/dynamic.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/images/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/images/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/images/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/images/nav-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/js/timeline.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/js/timeline.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/timeline/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/balloons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-branch-small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-branch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-comments-body.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-comments-bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-comments-top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-comments.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-footer2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-heading-about-us.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-heading-categories.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-heading-portfolio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-heading-resources.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-heading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-menu-active-tags.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-menu-active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/images/bg-tree.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/tree-house/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/archive-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/archives.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/article-list.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/article.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/author-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/category-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/common-comment.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/css/fonts/selection.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/dynamic.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/js/yilia.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/js/yilia.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/lang/lang_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/lang/lang_zh_CN.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/links.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/macro-comments.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/side.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/skin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/tag-articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-doc/项目docker/solo-skins-master/yilia/tags.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/netty/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/NettyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/NettyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/nio/buffer/BufferCreateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/nio/buffer/BufferCreateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-Learn/origin.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/origin.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -672,9 +67,9 @@
     <session id="-1000943230">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="67" />
+          <entry key="project.closed" value="68" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="27" />
+          <entry key="project.open.time.1" value="28" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="2" />
@@ -691,7 +86,7 @@
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="68" />
+          <entry key="project.opened" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -705,15 +100,15 @@
           <entry key="docker命令（build篇）" value="2" />
           <entry key="docker命令（run）" value="2" />
           <entry key="git命令" value="8" />
-          <entry key="html" value="39" />
-          <entry key="ico" value="11" />
+          <entry key="html" value="44" />
+          <entry key="ico" value="29" />
           <entry key="java" value="751" />
-          <entry key="jpeg" value="1" />
-          <entry key="jpg" value="2" />
+          <entry key="jpeg" value="3" />
+          <entry key="jpg" value="5" />
           <entry key="linux命令" value="2" />
           <entry key="log" value="2" />
           <entry key="md" value="1" />
-          <entry key="png" value="3" />
+          <entry key="png" value="8" />
           <entry key="pom" value="1" />
           <entry key="properties" value="2" />
           <entry key="py" value="3" />
@@ -727,8 +122,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="53" />
-          <entry key="HTML" value="39" />
-          <entry key="Image" value="17" />
+          <entry key="HTML" value="44" />
+          <entry key="Image" value="45" />
           <entry key="JAVA" value="751" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="61" />
@@ -743,23 +138,23 @@
           <entry key="conf" value="293" />
           <entry key="dummy" value="12" />
           <entry key="git命令" value="55" />
-          <entry key="html" value="490" />
+          <entry key="html" value="714" />
           <entry key="java" value="32821" />
           <entry key="linux命令" value="24" />
           <entry key="md" value="5" />
           <entry key="properties" value="8" />
           <entry key="py" value="17" />
           <entry key="sh" value="20" />
-          <entry key="txt" value="45" />
+          <entry key="txt" value="47" />
           <entry key="xml" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="490" />
+          <entry key="HTML" value="714" />
           <entry key="JAVA" value="32821" />
           <entry key="Markdown" value="5" />
-          <entry key="PLAIN_TEXT" value="466" />
+          <entry key="PLAIN_TEXT" value="468" />
           <entry key="Properties" value="8" />
           <entry key="XML" value="73" />
         </counts>
@@ -770,17 +165,7 @@
     <favorites_list name="SpringCloud" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="695" column="38" lean-forward="true" selection-start-line="695" selection-start-column="38" selection-end-line="695" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -876,7 +261,6 @@
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/bio/TestClient.java" />
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/Reactor/ReactorModel.java" />
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/test/JoinDemo.java" />
-        <option value="$PROJECT_DIR$/A-Learn/origin.html" />
         <option value="$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/BasicString.java" />
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/NettyApplication.java" />
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/NettyTest.java" />
@@ -888,6 +272,7 @@
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/Echo/EchoClient.java" />
         <option value="$PROJECT_DIR$/A-doc/git命令" />
         <option value="$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty_IM/common/ProtobufEncode.java" />
+        <option value="$PROJECT_DIR$/A-Learn/origin.html" />
         <option value="$PROJECT_DIR$/A-Learn/index.html" />
       </list>
     </option>
@@ -932,23 +317,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="A-Learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -978,6 +346,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="A-Learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -1002,25 +387,25 @@
     <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/A-doc/docker配置文件/data" />
+      <recent name="$PROJECT_DIR$/A-doc/docker配置文件/nginx" />
+      <recent name="$PROJECT_DIR$/A-doc" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.zsj" />
       <recent name="com.zsj.javaversion" />
       <recent name="com.zsj.nacosconsumer" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zsj.websocketredis.config" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/A-Learn/img" />
       <recent name="$PROJECT_DIR$/A-Learn" />
       <recent name="$PROJECT_DIR$/A-doc/docker配置文件/data" />
       <recent name="$PROJECT_DIR$/A-doc/项目docker/platform" />
       <recent name="$PROJECT_DIR$/A-doc/docker配置文件/mysql" />
-      <recent name="$PROJECT_DIR$/Socket/websocket-redis/src/main/resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zsj.websocketredis.config" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/A-doc/docker配置文件/data" />
-      <recent name="$PROJECT_DIR$/A-doc/docker配置文件/nginx" />
-      <recent name="$PROJECT_DIR$/A-doc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1330,7 +715,8 @@
       <workItem from="1587375997322" duration="832000" />
       <workItem from="1588137913075" duration="13000" />
       <workItem from="1588834930012" duration="1103000" />
-      <workItem from="1589792337091" duration="7642000" />
+      <workItem from="1589792337091" duration="7882000" />
+      <workItem from="1589940969111" duration="10342000" />
     </task>
     <task id="LOCAL-00001" summary="pagehelper">
       <created>1556012150141</created>
@@ -1479,7 +865,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586006152680</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="调整">
+      <created>1589882435155</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1589882435155</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1515,7 +908,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="951386000" />
+    <option name="totallyTimeSpent" value="961968000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1528,9 +921,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-59" y="-877" width="1440" height="822" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13650794" visible="true" weight="0.1502146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13650794" visible="true" weight="0.15236051" />
       <window_info id="Structure" order="1" sideWeight="0.8634921" side_tool="true" weight="0.17932148" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1549,7 +941,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49785408" weight="0.32698414" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4983845" weight="0.768254" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5024233" side_tool="true" weight="0.32222223" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5024233" side_tool="true" weight="0.3219178" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49757674" weight="0.32222223" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32857144" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49928468" weight="0.3299363" />
@@ -1665,204 +1057,14 @@
     <MESSAGE value="算法学习" />
     <MESSAGE value="leetcode算法刷题" />
     <MESSAGE value="调试" />
-    <option name="LAST_COMMIT_MESSAGE" value="调试" />
+    <MESSAGE value="调整" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/test/JoinDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/origin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="1384" column="62" lean-forward="true" selection-start-line="1384" selection-start-column="62" selection-end-line="1384" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/JavaversionApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/LongAdder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="84" column="10" lean-forward="true" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/Striped64.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="119" column="45" lean-forward="true" selection-start-line="119" selection-start-column="45" selection-end-line="119" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/LongAccumulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="139" column="29" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/javaversion/src/main/java/com/zsj/javaversion/java/BasicString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/LeetCode/src/main/java/com/zsj/msbd/msdb_list.java" />
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/WebsocketRedisApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketCloseEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/common/WebSocketConnectEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/GetHttpSessionConfigurator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/config/WebSocketConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/SocketController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/controller/WebSocketEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="43" column="40" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketHeartBeatChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/WebSocketSchedulingConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/heartbeat/TodoAtRemove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemoryWebSocketConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/websocket-redis/src/main/java/com/zsj/websocketredis/memory/MemWebSocketManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/NodeReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/LinkList/LNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLearn/Study.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/src/main/java/study/SynchronizedLearn/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/interview/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/utils/InpitUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Socket/netty/src/main/java/com/zsj/netty/NettyApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -2007,17 +1209,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A-Learn/index1.html">
+    <entry file="file://$PROJECT_DIR$/A-Learn/index1.html" />
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/aliyy.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/behance.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/75.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/AlloyTeam.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/bokeyuan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/bootstrap.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/dribbble.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/fex.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/fwa.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/github.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/hxbj.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/jquery.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/mayy.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/oschina.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/segmentfault.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/timg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/uigreat.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/vjku.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/vue.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/weui+.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/wx.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/wx.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/zfb.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/zfb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/zhihu.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/zsj.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/v2ex.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/origin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="609">
+          <caret line="272" column="32" selection-start-line="272" selection-start-column="32" selection-end-line="272" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="695" column="38" lean-forward="true" selection-start-line="695" selection-start-column="38" selection-end-line="695" selection-end-column="38" />
+        <state relative-caret-position="254">
+          <caret line="231" column="44" lean-forward="true" selection-start-line="231" selection-start-column="44" selection-end-line="231" selection-end-column="44" />
         </state>
       </provider>
     </entry>
