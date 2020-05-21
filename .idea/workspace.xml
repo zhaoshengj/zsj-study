@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3ef059-e0e7-438b-b35c-4363a57dd684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A-Learn/img/spring.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-Learn/img/aliyy.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/A-Learn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A-Learn/origin.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-Learn/origin.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,9 +64,9 @@
     <session id="-1000943230">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="68" />
+          <entry key="project.closed" value="69" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="28" />
+          <entry key="project.open.time.1" value="29" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="2" />
@@ -86,7 +83,7 @@
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="69" />
+          <entry key="project.opened" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -100,7 +97,7 @@
           <entry key="docker命令（build篇）" value="2" />
           <entry key="docker命令（run）" value="2" />
           <entry key="git命令" value="8" />
-          <entry key="html" value="44" />
+          <entry key="html" value="46" />
           <entry key="ico" value="29" />
           <entry key="java" value="751" />
           <entry key="jpeg" value="3" />
@@ -122,7 +119,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="53" />
-          <entry key="HTML" value="44" />
+          <entry key="HTML" value="46" />
           <entry key="Image" value="45" />
           <entry key="JAVA" value="751" />
           <entry key="Markdown" value="1" />
@@ -138,7 +135,7 @@
           <entry key="conf" value="293" />
           <entry key="dummy" value="12" />
           <entry key="git命令" value="55" />
-          <entry key="html" value="714" />
+          <entry key="html" value="729" />
           <entry key="java" value="32821" />
           <entry key="linux命令" value="24" />
           <entry key="md" value="5" />
@@ -151,7 +148,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="714" />
+          <entry key="HTML" value="729" />
           <entry key="JAVA" value="32821" />
           <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="468" />
@@ -165,7 +162,17 @@
     <favorites_list name="SpringCloud" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="759" column="42" lean-forward="true" selection-start-line="759" selection-start-column="42" selection-end-line="759" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -317,6 +324,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="A-Learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -341,22 +364,6 @@
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="A-Learn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -716,7 +723,8 @@
       <workItem from="1588137913075" duration="13000" />
       <workItem from="1588834930012" duration="1103000" />
       <workItem from="1589792337091" duration="7882000" />
-      <workItem from="1589940969111" duration="10342000" />
+      <workItem from="1589940969111" duration="10377000" />
+      <workItem from="1590027297630" duration="1535000" />
     </task>
     <task id="LOCAL-00001" summary="pagehelper">
       <created>1556012150141</created>
@@ -872,7 +880,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589882435155</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="调整">
+      <created>1589956275218</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1589956275218</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -908,7 +923,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="961968000" />
+    <option name="totallyTimeSpent" value="963538000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -921,8 +936,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-59" y="-877" width="1440" height="822" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13650794" visible="true" weight="0.15236051" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13650794" visible="true" weight="0.15450644" />
       <window_info id="Structure" order="1" sideWeight="0.8634921" side_tool="true" weight="0.17932148" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1210,9 +1226,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A-Learn/index1.html" />
-    <entry file="file://$PROJECT_DIR$/A-Learn/img/aliyy.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/A-Learn/img/aliyy.ico" />
     <entry file="file://$PROJECT_DIR$/A-Learn/img/behance.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1300,8 +1314,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="231" column="44" lean-forward="true" selection-start-line="231" selection-start-column="44" selection-end-line="231" selection-end-column="44" />
+        <state relative-caret-position="396">
+          <caret line="759" column="42" lean-forward="true" selection-start-line="759" selection-start-column="42" selection-end-line="759" selection-end-column="42" />
         </state>
       </provider>
     </entry>
