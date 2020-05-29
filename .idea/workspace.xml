@@ -64,9 +64,9 @@
     <session id="-1000943230">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="70" />
+          <entry key="project.closed" value="71" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="29" />
+          <entry key="project.open.time.1" value="30" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="2" />
@@ -84,7 +84,7 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="72" />
+          <entry key="project.opened" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -98,7 +98,7 @@
           <entry key="docker命令（build篇）" value="2" />
           <entry key="docker命令（run）" value="2" />
           <entry key="git命令" value="8" />
-          <entry key="html" value="48" />
+          <entry key="html" value="49" />
           <entry key="ico" value="29" />
           <entry key="java" value="752" />
           <entry key="jpeg" value="3" />
@@ -120,7 +120,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="53" />
-          <entry key="HTML" value="48" />
+          <entry key="HTML" value="49" />
           <entry key="Image" value="45" />
           <entry key="JAVA" value="752" />
           <entry key="Markdown" value="1" />
@@ -143,7 +143,7 @@
           <entry key="properties" value="8" />
           <entry key="py" value="17" />
           <entry key="sh" value="20" />
-          <entry key="txt" value="47" />
+          <entry key="txt" value="55" />
           <entry key="xml" value="73" />
         </counts>
       </usages-collector>
@@ -152,7 +152,7 @@
           <entry key="HTML" value="901" />
           <entry key="JAVA" value="32821" />
           <entry key="Markdown" value="5" />
-          <entry key="PLAIN_TEXT" value="468" />
+          <entry key="PLAIN_TEXT" value="476" />
           <entry key="Properties" value="8" />
           <entry key="XML" value="73" />
         </counts>
@@ -167,8 +167,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="1467" column="42" lean-forward="true" selection-start-line="1467" selection-start-column="42" selection-end-line="1467" selection-end-column="42" />
+            <state relative-caret-position="172">
+              <caret line="214" column="17" lean-forward="true" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -325,6 +325,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="A-Learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -355,81 +371,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="A-Learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="atomic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="locks" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -786,7 +727,8 @@
       <workItem from="1589940969111" duration="10377000" />
       <workItem from="1590027297630" duration="2620000" />
       <workItem from="1590039703355" duration="42000" />
-      <workItem from="1590113504729" duration="7003000" />
+      <workItem from="1590113504729" duration="7587000" />
+      <workItem from="1590733630705" duration="533000" />
     </task>
     <task id="LOCAL-00001" summary="pagehelper">
       <created>1556012150141</created>
@@ -956,7 +898,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590031029685</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="项目维护">
+      <created>1590122283586</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1590122283586</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -992,7 +941,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="971668000" />
+    <option name="totallyTimeSpent" value="972785000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1007,7 +956,7 @@
     <frame x="-59" y="-877" width="1440" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13650794" visible="true" weight="0.15879828" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13650794" visible="true" weight="0.16094421" />
       <window_info id="Structure" order="1" sideWeight="0.8634921" side_tool="true" weight="0.17932148" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1143,7 +1092,8 @@
     <MESSAGE value="leetcode算法刷题" />
     <MESSAGE value="调试" />
     <MESSAGE value="调整" />
-    <option name="LAST_COMMIT_MESSAGE" value="调整" />
+    <MESSAGE value="项目维护" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目维护" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1383,8 +1333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/A-Learn/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="1467" column="42" lean-forward="true" selection-start-line="1467" selection-start-column="42" selection-end-line="1467" selection-end-column="42" />
+        <state relative-caret-position="172">
+          <caret line="214" column="17" lean-forward="true" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
         </state>
       </provider>
     </entry>
