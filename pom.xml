@@ -16,7 +16,7 @@
     <properties>
         <!-- Dependency Versions -->
         <spring-cloud-commons.version>2.1.1.RELEASE</spring-cloud-commons.version>
-        <spring-cloud-netflix.version>2.1.1.RELEASE</spring-cloud-netflix.version>
+        <spring-cloud-netflix.version>2.2.0.RELEASE</spring-cloud-netflix.version>
         <spring-cloud-openfeign.version>2.1.1.RELEASE</spring-cloud-openfeign.version>
         <spring-cloud-bus.version>2.1.1.RELEASE</spring-cloud-bus.version>
         <spring-cloud-gateway.version>2.1.1.RELEASE</spring-cloud-gateway.version>
